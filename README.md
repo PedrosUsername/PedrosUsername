@@ -27,7 +27,26 @@ ___
 <img alt="Pedro's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrosUsername&exclude_repo=HW2&layout=compact" />
 </p>
 
+___
+
+|   |
+| --- |
+| <sub>[Posted by: u/wanlyadjust62][source]</sub> |
+| **They speak different languages** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ktnfmaboxsv61.jpg" width="450" /> </p>|
+|   |
+
+<sub>r/gaming's most commented post in 7 days</sub>  
+  
+
+You can change this picture buy issuing me a new subreddit!
 
 
+
+  
+  
+  
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
+[source]: https://www.reddit.com/r/gaming/comments/n01r8i/they_speak_different_languages/
+[PushshiftAPI]: https://github.com/pushshift/api
