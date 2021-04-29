@@ -1,4 +1,4 @@
-<p align="left"><sub>updated at: 2021/04/25</sub></p>
+<p align="left"><sub>last updated at: 29-Apr-2021</sub></p>
 
 ___
 
@@ -6,9 +6,8 @@ ___
 <img align="right" alt="GIF" src="https://github.com/PedrosUsername/PedrosUsername/blob/main/aha.gif?raw=true" width="500" height="320" />
 
 Name's Pedro Henrique, but you can call me Pedro. I'm a simple man, I'm
-interested in coding, animation, video games and I like the different.
-When I'm working on something I try to be as creative and original as
-Possible.
+interested in coding, animation, witch-house and video games.
+I like the different. When I'm working on something I try to be as creative and original as Possible.
 
 ### More about me
 - **Currently working on:**  
@@ -31,15 +30,13 @@ ___
 
 |   |
 | --- |
-| <sub>[Posted by: u/wanlyadjust62][source]</sub> |
-| **They speak different languages** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/ktnfmaboxsv61.jpg" width="450" /> </p>|
+| <sub>[Posted by: u/hanfanson][source]</sub> |
+| **(Part 2) Never before seen 9/11 photo, discovered in a photo book I received from a late relative. The photos have never been digitized nor seen by anyone other than her — until now.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/24ytvi00ecv61.jpg" width="450" /> </p>|
 |   |
 
-<sub>r/gaming's most commented post in 7 days</sub>  
+<sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
   
-
-You can change this picture buy issuing me a new subreddit!
 
 
 
@@ -48,5 +45,5 @@ You can change this picture buy issuing me a new subreddit!
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/gaming/comments/n01r8i/they_speak_different_languages/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/myb64i/part_2_never_before_seen_911_photo_discovered_in/
 [PushshiftAPI]: https://github.com/pushshift/api
