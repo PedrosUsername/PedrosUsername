@@ -1,0 +1,22 @@
+name: daily
+ 
+on:
+  schedule:
+    - cron: "0 1 * * *"
+    
+  workflow_dispatch:
+
+jobs:
+  schedule-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: python
+        uses: actions/setup-python@v1
+
+      - name: multi-line script
+        run: |
+          pip install requests
+          python .github/script.py interestingasfuck
