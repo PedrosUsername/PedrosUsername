@@ -32,7 +32,7 @@ ___
 | --- |
 | <sub>[Posted by: u/hanfanson][source]</sub> |
 | **(Part 2) Never before seen 9/11 photo, discovered in a photo book I received from a late relative. The photos have never been digitized nor seen by anyone other than her — until now.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/24ytvi00ecv61.jpg" width="450" /> </p>|
+|<p align="center"> <img alt="image" src="https://i.redd.it/24ytvi00ecv61.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
