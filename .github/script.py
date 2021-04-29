@@ -59,7 +59,7 @@ ___
 | --- |
 | <sub>[Posted by: u/{post['author']}][source]</sub> |
 | **{post['title']}** | 
-|<p align="center"> <img alt="image" src="{post['url']}" width="450" /> </p>|
+|<p align="center"> <img alt="image" src="{post['url']}" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/{sub}'s most commented post in 7 days</sub>  
