@@ -18,7 +18,9 @@ jobs:
 
       - name: multi-line script
         run: |
-          ls ${{ github.workspace }}
           pip install requests
           python .github/script.py interestingasfuck
-          ls ${{ github.workspace }}
+
+          git add -A
+          git commit -m "update"
+          git remote -v
