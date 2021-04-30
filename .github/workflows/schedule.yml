@@ -19,7 +19,7 @@ jobs:
       - name: pushshift-api
         run: |
           pip install requests
-          python .github/script.py 196
+          python .github/script.py interestigasfuck
 
       - name: preserve-changes
         run: |
