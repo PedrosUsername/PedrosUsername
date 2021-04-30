@@ -27,4 +27,4 @@ jobs:
           git config --global user.name "pedro-bot"
           git add -A
           git commit -m "update"
-          git push
+          git push origin main --force
