@@ -24,7 +24,7 @@ if( len(post) > 0 ):
     print( post['url'] )
     print( post['full_link'] )
 
-    f = open('RREADME.md', 'w')
+    f = open('README.md', 'w')
     content = f"""### Hey, what's up?
 <img align="right" alt="GIF" src="https://github.com/PedrosUsername/PedrosUsername/blob/main/aha.gif?raw=true" width="500" height="320" />
 
