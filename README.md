@@ -1,7 +1,3 @@
-<p align="left"><sub>last updated at: 29-Apr-2021</sub></p>
-
-___
-
 ### Hey, what's up?
 <img align="right" alt="GIF" src="https://github.com/PedrosUsername/PedrosUsername/blob/main/aha.gif?raw=true" width="500" height="320" />
 
@@ -27,6 +23,8 @@ ___
 </p>
 
 ___
+
+<p align="left"><sub>last updated at: 30-Apr-2021</sub></p>
 
 |   |
 | --- |
