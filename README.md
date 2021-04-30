@@ -24,7 +24,9 @@ ___
 
 ___
 
-<p align="left"><sub>last updated at: 30-Apr-2021 19:35:13</sub></p>
+### Bonus info +
+
+<p align="left"><sub>last updated at: 30-Apr-2021 20:43:42</sub></p>
 
 |   |
 | --- |

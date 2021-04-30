@@ -19,6 +19,7 @@ def getPushshiftData(sub):
 post = getPushshiftData( sub )
 if( len(post) > 0 ):
     post = post[0]
+    print('[time: ' + today + ']')
     print( post['author'] )
     print( post['title'] )
     print( post['url'] )
@@ -50,6 +51,8 @@ ___
 </p>
 
 ___
+
+### Bonus info +
 
 <p align="left"><sub>last updated at: {today}</sub></p>
 
