@@ -25,4 +25,4 @@ jobs:
           git config --global user.name "pedro-bot"
           git add -A
           git commit -m "update"
-          git remote -v
+          git push
