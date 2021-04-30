@@ -25,11 +25,7 @@ if( len(post) > 0 ):
     print( post['full_link'] )
 
     f = open('README.md', 'w')
-    content = f"""<p align="left"><sub>last updated at: {today}</sub></p>
-
-___
-
-### Hey, what's up?
+    content = f"""### Hey, what's up?
 <img align="right" alt="GIF" src="https://github.com/PedrosUsername/PedrosUsername/blob/main/aha.gif?raw=true" width="500" height="320" />
 
 Name's Pedro Henrique, but you can call me Pedro. I'm a simple man, I'm
@@ -54,6 +50,8 @@ ___
 </p>
 
 ___
+
+<p align="left"><sub>last updated at: {today}</sub></p>
 
 |   |
 | --- |
