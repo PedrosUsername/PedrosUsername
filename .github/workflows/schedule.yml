@@ -21,6 +21,8 @@ jobs:
           pip install requests
           python .github/script.py interestingasfuck
 
+          git config --global user.email "pedro-bot@actions.com"
+          git config --global user.name "pedro-bot"
           git add -A
           git commit -m "update"
           git remote -v
