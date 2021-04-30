@@ -28,12 +28,12 @@ ___
 
 |   |
 | --- |
-| <sub>[Posted by: u/hanfanson][source]</sub> |
-| **(Part 2) Never before seen 9/11 photo, discovered in a photo book I received from a late relative. The photos have never been digitized nor seen by anyone other than her — until now.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/24ytvi00ecv61.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Sydid][source]</sub> |
+| **Rule** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/5acnyq3as5v61.jpg" width="550" /> </p>|
 |   |
 
-<sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
+<sub>[Reddit] r/196's most commented post in 7 days</sub>  
   
 
 
@@ -43,5 +43,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/myb64i/part_2_never_before_seen_911_photo_discovered_in/
+[source]: https://www.reddit.com/r/196/comments/mxoy9e/rule/
 [PushshiftAPI]: https://github.com/pushshift/api
