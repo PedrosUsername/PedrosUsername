@@ -1,4 +1,4 @@
-from datetime import date
+from datetime import datetime
 import requests
 import json
 import sys
@@ -6,7 +6,7 @@ import sys
 
 
 sub = str(sys.argv[1])
-today = date.today().strftime('%d-%b-%Y')
+today = datetime.now().strftime('%d-%b-%Y %H:%M:%S')
 
 def getPushshiftData(sub):
     url = 'https://api.pushshift.io/reddit/search/submission/?subreddit='+ str(sub) +'&after=7d&sort_type=num_comments&sort=desc&domain=i.redd.it&domain=i.imgur.com&size=1'
