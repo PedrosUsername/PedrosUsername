@@ -2,7 +2,7 @@ name: daily
  
 on:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "*/2 * * * *"
     
   workflow_dispatch:
 
@@ -16,11 +16,13 @@ jobs:
       - name: python
         uses: actions/setup-python@v1
 
-      - name: multi-line script
+      - name: pushshift-api
         run: |
           pip install requests
-          python .github/script.py interestingasfuck
+          python .github/script.py 196
 
+      - name: preserve-changes
+        run: |
           git config --global user.email "pedro-bot@actions.com"
           git config --global user.name "pedro-bot"
           git add -A
