@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 09-May-2021 03:58:22</sub></p>
+<p align="left"><sub>last updated at: 11-May-2021 04:01:02</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/KingBaboon97][source]</sub> |
-| **I created a photorealistic image of George Washington if he lived in the present day.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/kaopcso5hqw61.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/eoford][source]</sub> |
+| **I created a photorealistic image of Abraham Lincoln if he lived in the present day.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/izknkp2whbx61.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/n39zq5/i_created_a_photorealistic_image_of_george/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/n5i3qw/i_created_a_photorealistic_image_of_abraham/
 [PushshiftAPI]: https://github.com/pushshift/api
