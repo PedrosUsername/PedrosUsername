@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 13-May-2021 04:03:20</sub></p>
+<p align="left"><sub>last updated at: 15-May-2021 04:02:58</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Pixel_Lightning][source]</sub> |
-| **Serbian combat diver** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/quh0ewo8n2y61.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/idan357][source]</sub> |
+| **Rockets and air defance system in action.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/74ahwpo7a1z61.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/n8bg33/serbian_combat_diver/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/nc2dmb/rockets_and_air_defance_system_in_action/
 [PushshiftAPI]: https://github.com/pushshift/api
