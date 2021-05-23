@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 21-May-2021 04:04:10</sub></p>
+<p align="left"><sub>last updated at: 23-May-2021 04:17:30</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/idan357][source]</sub> |
-| **Rockets and air defance system in action.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/74ahwpo7a1z61.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/StickyNode][source]</sub> |
+| **The Mountain from GOT (actor Hafþór Júlíus Björnsson) is 6'8 1/2, 430 lbs, seen here with father and grandfather** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/sizuxex9qzz61.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/nc2dmb/rockets_and_air_defance_system_in_action/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/nftuag/the_mountain_from_got_actor_hafþór_júlíus/
 [PushshiftAPI]: https://github.com/pushshift/api
