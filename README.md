@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 25-May-2021 04:20:35</sub></p>
+<p align="left"><sub>last updated at: 27-May-2021 04:43:34</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/kanjscat][source]</sub> |
-| **Urinals That Protect Your Shoes From The Splashback** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/j11a1morkr071.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/lishoywytert3456][source]</sub> |
+| **Being woken up to a bear searching for food near your tent** | 
+|<p align="center"> <img alt="image" src="https://i.imgur.com/gGt6RRp.gif" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/nivxmo/urinals_that_protect_your_shoes_from_the/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/njk7rd/being_woken_up_to_a_bear_searching_for_food_near/
 [PushshiftAPI]: https://github.com/pushshift/api
