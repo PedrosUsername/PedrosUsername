@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 29-May-2021 05:45:16</sub></p>
+<p align="left"><sub>last updated at: 31-May-2021 05:32:24</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/lishoywytert3456][source]</sub> |
-| **Being woken up to a bear searching for food near your tent** | 
-|<p align="center"> <img alt="image" src="https://i.imgur.com/gGt6RRp.gif" width="550" /> </p>|
+| <sub>[Posted by: u/aloofloofah][source]</sub> |
+| **Short run vinyl pressing** | 
+|<p align="center"> <img alt="image" src="https://i.imgur.com/16vYU6q.gifv" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/njk7rd/being_woken_up_to_a_bear_searching_for_food_near/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/nk4jcm/short_run_vinyl_pressing/
 [PushshiftAPI]: https://github.com/pushshift/api
