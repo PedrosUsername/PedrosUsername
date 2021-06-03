@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 01-Jun-2021 05:56:37</sub></p>
+<p align="left"><sub>last updated at: 03-Jun-2021 05:33:45</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Ainsley-Sorsby][source]</sub> |
-| **A Silverback waiting to see the humans stepping aside for him, as he would expect from his troop** | 
-|<p align="center"> <img alt="image" src="https://i.imgur.com/7fcYFCr.gifv" width="550" /> </p>|
+| <sub>[Posted by: u/DennyDud][source]</sub> |
+| **How dogs used to look like before inbreeding** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/awc9ca800n271.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/nmh4u4/a_silverback_waiting_to_see_the_humans_stepping/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/nprg98/how_dogs_used_to_look_like_before_inbreeding/
 [PushshiftAPI]: https://github.com/pushshift/api
