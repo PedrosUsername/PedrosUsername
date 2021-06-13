@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 11-Jun-2021 04:00:19</sub></p>
+<p align="left"><sub>last updated at: 13-Jun-2021 03:58:07</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/MoreGull][source]</sub> |
-| **Tianamen Square before the crackdown** | 
-|<p align="center"> <img alt="image" src="https://i.imgur.com/tyeC4ly.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Bomber_Sam][source]</sub> |
+| **Alienware's ultrawide monitor in 2008** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/dosd6i27nk371.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/nsk4il/tianamen_square_before_the_crackdown/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/ntdbz4/alienwares_ultrawide_monitor_in_2008/
 [PushshiftAPI]: https://github.com/pushshift/api
