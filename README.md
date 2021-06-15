@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 13-Jun-2021 03:58:07</sub></p>
+<p align="left"><sub>last updated at: 15-Jun-2021 03:59:09</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Bomber_Sam][source]</sub> |
-| **Alienware's ultrawide monitor in 2008** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/dosd6i27nk371.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Dea_seven_nine][source]</sub> |
+| **On many Japanese toilets, the hand wash sink is attached so that you can wash your hands and reuse the water for the next flush. Japan saves millions of liters of water every year doing this.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/qm47qmkh93471.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/ntdbz4/alienwares_ultrawide_monitor_in_2008/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/nvbfjv/on_many_japanese_toilets_the_hand_wash_sink_is/
 [PushshiftAPI]: https://github.com/pushshift/api
