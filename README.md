@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 15-Jun-2021 03:59:09</sub></p>
+<p align="left"><sub>last updated at: 17-Jun-2021 03:58:10</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Dea_seven_nine][source]</sub> |
-| **On many Japanese toilets, the hand wash sink is attached so that you can wash your hands and reuse the water for the next flush. Japan saves millions of liters of water every year doing this.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/qm47qmkh93471.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/NiceCasualRedditGuy][source]</sub> |
+| **Video footage of Swastika blown up by U.S. Army in Nuremberg, 1945** | 
+|<p align="center"> <img alt="image" src="https://i.imgur.com/svvUcgO.gifv" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/nvbfjv/on_many_japanese_toilets_the_hand_wash_sink_is/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/nx2hye/video_footage_of_swastika_blown_up_by_us_army_in/
 [PushshiftAPI]: https://github.com/pushshift/api
