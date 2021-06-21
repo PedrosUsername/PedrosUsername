@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 19-Jun-2021 03:57:12</sub></p>
+<p align="left"><sub>last updated at: 21-Jun-2021 03:56:12</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/FriesWithThat][source]</sub> |
-| **Metric vs. Imperial** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/7ik9khaixa571.png" width="550" /> </p>|
+| <sub>[Posted by: u/__Dawn__Amber__][source]</sub> |
+| **Owl warning a cat to keep away** | 
+|<p align="center"> <img alt="image" src="https://i.imgur.com/GMH3lGq.gifv" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/nzxxbg/metric_vs_imperial/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/o12rs2/owl_warning_a_cat_to_keep_away/
 [PushshiftAPI]: https://github.com/pushshift/api
