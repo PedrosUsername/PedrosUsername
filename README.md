@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 23-Jun-2021 03:52:30</sub></p>
+<p align="left"><sub>last updated at: 25-Jun-2021 03:50:52</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/__Dawn__Amber__][source]</sub> |
-| **Owl warning a cat to keep away** | 
-|<p align="center"> <img alt="image" src="https://i.imgur.com/GMH3lGq.gifv" width="550" /> </p>|
+| <sub>[Posted by: u/GallowBoob][source]</sub> |
+| **Swap your boring lawn grass with red creeping thyme, grows 3 inch tall max, requires no mowing, lovely lemony scent, can repel mosquitoes, grows all year long, better for local biodiversity.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/gg6mdm8k2h671.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/o12rs2/owl_warning_a_cat_to_keep_away/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/o4d2km/swap_your_boring_lawn_grass_with_red_creeping/
 [PushshiftAPI]: https://github.com/pushshift/api
