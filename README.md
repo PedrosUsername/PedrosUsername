@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 27-Jun-2021 03:52:07</sub></p>
+<p align="left"><sub>last updated at: 29-Jun-2021 03:52:10</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/GallowBoob][source]</sub> |
-| **Swap your boring lawn grass with red creeping thyme, grows 3 inch tall max, requires no mowing, lovely lemony scent, can repel mosquitoes, grows all year long, better for local biodiversity.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/gg6mdm8k2h671.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/DGS_Cass3636][source]</sub> |
+| **In the Netherlands, a lot of farmers have machines where People can buy fresh milk from the farm itself. It's cheaper than the supermarkt, and gives the farmers more profit for their produce.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/johwa98dh9771.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/o4d2km/swap_your_boring_lawn_grass_with_red_creeping/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/o77kp1/in_the_netherlands_a_lot_of_farmers_have_machines/
 [PushshiftAPI]: https://github.com/pushshift/api
