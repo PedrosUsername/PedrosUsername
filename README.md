@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 03-Jul-2021 03:52:14</sub></p>
+<p align="left"><sub>last updated at: 05-Jul-2021 03:52:26</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/KimCureAll][source]</sub> |
-| **The world's last Stone Age tribe lives on North Sentinel Island in the Indian Ocean, and they are known for defending their island against all visitors. Because they have been living in isolation for 60,000 years, there is genetically a direct line between them and their pre-Neolithic ancestors.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/7dh5q11kvv771.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/MattyIce6969][source]</sub> |
+| **“The dog on the Left is award winning showdog named Arnie an AKC French Bulldog..The dog on the right is Flint, bred in the Netherlands by Hawbucks French Bulldogs - a breeder trying to establish a new, healthier template for French Bulldogs.”** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ln1g7d1wae871.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/o976vj/the_worlds_last_stone_age_tribe_lives_on_north/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/oaw4v8/the_dog_on_the_left_is_award_winning_showdog/
 [PushshiftAPI]: https://github.com/pushshift/api
