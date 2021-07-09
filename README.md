@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 07-Jul-2021 03:52:10</sub></p>
+<p align="left"><sub>last updated at: 09-Jul-2021 03:52:06</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/MattyIce6969][source]</sub> |
-| **“The dog on the Left is award winning showdog named Arnie an AKC French Bulldog..The dog on the right is Flint, bred in the Netherlands by Hawbucks French Bulldogs - a breeder trying to establish a new, healthier template for French Bulldogs.”** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/ln1g7d1wae871.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/AtheistChrist][source]</sub> |
+| **USA under 16 and El Salvador under 16** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/e3s7iwtyak971.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/oaw4v8/the_dog_on_the_left_is_award_winning_showdog/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/oerk5l/usa_under_16_and_el_salvador_under_16/
 [PushshiftAPI]: https://github.com/pushshift/api
