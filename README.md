@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 17-Jul-2021 03:52:12</sub></p>
+<p align="left"><sub>last updated at: 19-Jul-2021 03:52:09</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/samir391][source]</sub> |
-| **There’s cities, there’s metropolises, and then there’s Tokyo.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/muikbxf2dea71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/jacklsd][source]</sub> |
+| **Coal Miners coming up a Coal Mine Elevator after a day of work in 1920's Belgium** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/sepj0e7bhmb71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/ohjw0s/theres_cities_theres_metropolises_and_then_theres/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/olnkd5/coal_miners_coming_up_a_coal_mine_elevator_after/
 [PushshiftAPI]: https://github.com/pushshift/api
