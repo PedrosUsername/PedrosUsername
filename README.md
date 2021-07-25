@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 23-Jul-2021 03:52:10</sub></p>
+<p align="left"><sub>last updated at: 25-Jul-2021 03:52:13</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/jacklsd][source]</sub> |
-| **Coal Miners coming up a Coal Mine Elevator after a day of work in 1920's Belgium** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/sepj0e7bhmb71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/wesskywalker][source]</sub> |
+| **Chicago skyline visible from nearly 50 miles away in Indiana Dunes sunset.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/3l9c6nt9lfc71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/olnkd5/coal_miners_coming_up_a_coal_mine_elevator_after/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/ooawkq/chicago_skyline_visible_from_nearly_50_miles_away/
 [PushshiftAPI]: https://github.com/pushshift/api
