@@ -24,18 +24,6 @@ ___
 
 ___
 
-### Bonus info +
-
-<p align="left"><sub>last updated at: 03-Aug-2021 03:52:21</sub></p>
-
-|   |
-| --- |
-| <sub>[Posted by: u/bewarethechameleon][source]</sub> |
-| **electric strimmer vs scythe** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/rtdrgazqcfe71.gif" width="550" /> </p>|
-|   |
-
-<sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
   
 
 
