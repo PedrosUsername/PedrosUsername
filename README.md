@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 13-Aug-2021 03:52:19</sub></p>
+<p align="left"><sub>last updated at: 15-Aug-2021 03:52:24</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/9999monkeys][source]</sub> |
-| **Night bus in Japan** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/alrtzkbbazf71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Nihilist911][source]</sub> |
+| **Leaders of the countries participating in the Second World War in childhood.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/my2qa14en0h71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/ozyh8i/night_bus_in_japan/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/p3c3rn/leaders_of_the_countries_participating_in_the/
 [PushshiftAPI]: https://github.com/pushshift/api
