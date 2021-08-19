@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 17-Aug-2021 03:52:15</sub></p>
+<p align="left"><sub>last updated at: 19-Aug-2021 03:52:08</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Nihilist911][source]</sub> |
-| **Leaders of the countries participating in the Second World War in childhood.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/my2qa14en0h71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/usrname_REDACTED][source]</sub> |
+| **Inside the C-17 from Kabul** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/x5ickrxgurh71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/p3c3rn/leaders_of_the_countries_participating_in_the/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/p5n6wn/inside_the_c17_from_kabul/
 [PushshiftAPI]: https://github.com/pushshift/api
