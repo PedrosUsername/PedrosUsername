@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 31-Aug-2021 03:52:15</sub></p>
+<p align="left"><sub>last updated at: 01-Sep-2021 03:52:13</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Cyber_Being_][source]</sub> |
-| **In 2010, a black Nigerian couple living in London gave birth to a white, blond haired &amp; blue eyed baby that they called 'The Miracle Baby'** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/3r182v0gmej71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Bavoon][source]</sub> |
+| **Our dog had a tick. Our dog’s tick also had a tick.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/5kr64brf6yj71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/pb0qcs/in_2010_a_black_nigerian_couple_living_in_london/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/pctluv/our_dog_had_a_tick_our_dogs_tick_also_had_a_tick/
 [PushshiftAPI]: https://github.com/pushshift/api
