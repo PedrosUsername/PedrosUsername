@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 03-Sep-2021 03:52:09</sub></p>
+<p align="left"><sub>last updated at: 05-Sep-2021 03:52:27</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Bavoon][source]</sub> |
-| **Our dog had a tick. Our dog’s tick also had a tick.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/5kr64brf6yj71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/phleep][source]</sub> |
+| **The Final American Soldier to Leave Afghanistan** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/278bgybd2lk71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/pctluv/our_dog_had_a_tick_our_dogs_tick_also_had_a_tick/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/peu9ub/the_final_american_soldier_to_leave_afghanistan/
 [PushshiftAPI]: https://github.com/pushshift/api
