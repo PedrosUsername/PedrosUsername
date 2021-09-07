@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 05-Sep-2021 03:52:27</sub></p>
+<p align="left"><sub>last updated at: 07-Sep-2021 03:52:18</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/phleep][source]</sub> |
-| **The Final American Soldier to Leave Afghanistan** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/278bgybd2lk71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/tandyman234][source]</sub> |
+| **Conjoined twins had a 1/30 million chance of survival at birth, they are now adults and have become teachers!** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/nwoirqrl5sl71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/peu9ub/the_final_american_soldier_to_leave_afghanistan/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/pip0m7/conjoined_twins_had_a_130_million_chance_of/
 [PushshiftAPI]: https://github.com/pushshift/api
