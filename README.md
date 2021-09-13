@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 11-Sep-2021 03:52:13</sub></p>
+<p align="left"><sub>last updated at: 13-Sep-2021 03:52:19</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/tandyman234][source]</sub> |
-| **Conjoined twins had a 1/30 million chance of survival at birth, they are now adults and have become teachers!** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/nwoirqrl5sl71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/mohammedibnakar][source]</sub> |
+| **The moment George Bush learned 9/11 happened while reading at an elementary school.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/0kektdpv1vm71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/pip0m7/conjoined_twins_had_a_130_million_chance_of/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/pm5vic/the_moment_george_bush_learned_911_happened_while/
 [PushshiftAPI]: https://github.com/pushshift/api
