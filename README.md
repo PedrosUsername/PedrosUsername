@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 17-Sep-2021 03:52:12</sub></p>
+<p align="left"><sub>last updated at: 19-Sep-2021 03:52:12</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/mohammedibnakar][source]</sub> |
-| **The moment George Bush learned 9/11 happened while reading at an elementary school.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/0kektdpv1vm71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Chasith][source]</sub> |
+| **"Green Boots" a climber that froze to death while Climbing Mt Everest in 1996 - and he is still there.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/b760u7y9cxn71.png" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/pm5vic/the_moment_george_bush_learned_911_happened_while/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/ppla9b/green_boots_a_climber_that_froze_to_death_while/
 [PushshiftAPI]: https://github.com/pushshift/api
