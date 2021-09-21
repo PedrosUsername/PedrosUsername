@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 19-Sep-2021 03:52:12</sub></p>
+<p align="left"><sub>last updated at: 21-Sep-2021 03:52:19</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Chasith][source]</sub> |
-| **"Green Boots" a climber that froze to death while Climbing Mt Everest in 1996 - and he is still there.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/b760u7y9cxn71.png" width="550" /> </p>|
+| <sub>[Posted by: u/_Daemon__][source]</sub> |
+| **The difference between an alligator (left) and a crocodile (right)** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/3g7pb63ql2o71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/ppla9b/green_boots_a_climber_that_froze_to_death_while/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/pq0s2w/the_difference_between_an_alligator_left_and_a/
 [PushshiftAPI]: https://github.com/pushshift/api
