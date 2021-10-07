@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 05-Oct-2021 03:52:31</sub></p>
+<p align="left"><sub>last updated at: 07-Oct-2021 03:52:08</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/umberto_pagano][source]</sub> |
-| **This is what $ 20 million looks like under a mattress** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/22q7mxu4maq71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/broomshed][source]</sub> |
+| **Portrait of Jesus by digital artist Bas Uterwijk using artificial intelligence, combining traditional iconography and what we know about his ethnicity, and culture for the time and region.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/deoe9lbre2r71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/pxdfof/this_is_what_20_million_looks_like_under_a/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/pzyks5/portrait_of_jesus_by_digital_artist_bas_uterwijk/
 [PushshiftAPI]: https://github.com/pushshift/api
