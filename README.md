@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 09-Oct-2021 03:52:13</sub></p>
+<p align="left"><sub>last updated at: 11-Oct-2021 03:52:16</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/broomshed][source]</sub> |
-| **Portrait of Jesus by digital artist Bas Uterwijk using artificial intelligence, combining traditional iconography and what we know about his ethnicity, and culture for the time and region.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/deoe9lbre2r71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Cecca105][source]</sub> |
+| **Rear-axle steering for better agility** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/qr2fnsgokas71.gif" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/pzyks5/portrait_of_jesus_by_digital_artist_bas_uterwijk/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/q46y62/rearaxle_steering_for_better_agility/
 [PushshiftAPI]: https://github.com/pushshift/api
