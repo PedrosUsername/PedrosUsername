@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 17-Oct-2021 03:52:11</sub></p>
+<p align="left"><sub>last updated at: 19-Oct-2021 03:52:31</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/thunde-r][source]</sub> |
-| **You are Looking the first Image of another solar system** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/2saycm8knft71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/tardigrade_h2k][source]</sub> |
+| **This guy drank homemade colloidal silver for 20 years and turned blue/indigo** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/3a4t61jyrut71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/q81u9l/you_are_looking_the_first_image_of_another_solar/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/q9han8/this_guy_drank_homemade_colloidal_silver_for_20/
 [PushshiftAPI]: https://github.com/pushshift/api
