@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 19-Oct-2021 03:52:31</sub></p>
+<p align="left"><sub>last updated at: 21-Oct-2021 03:52:22</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/tardigrade_h2k][source]</sub> |
-| **This guy drank homemade colloidal silver for 20 years and turned blue/indigo** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/3a4t61jyrut71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Overall-Flatworm-587][source]</sub> |
+| **Height lengthening surgery, going from 5’7 to 6 feet after a very painful procedure** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/rnwrif8b4bu71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/q9han8/this_guy_drank_homemade_colloidal_silver_for_20/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/qb0iil/height_lengthening_surgery_going_from_57_to_6/
 [PushshiftAPI]: https://github.com/pushshift/api
