@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 25-Oct-2021 03:52:12</sub></p>
+<p align="left"><sub>last updated at: 27-Oct-2021 03:52:26</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Overall-Flatworm-587][source]</sub> |
-| **Height lengthening surgery, going from 5’7 to 6 feet after a very painful procedure** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/rnwrif8b4bu71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/SpaceInvader9][source]</sub> |
+| **In a performance in 1974, Marina Abramović told visitors she wouldn't move for six hours, whatever they did to her. She made 72 items available on a table on her side that could be used to please or destroy her, She invited visitors to use the items on it as they wish.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/iq96kuunq9v71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/qb0iil/height_lengthening_surgery_going_from_57_to_6/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/qee1sv/in_a_performance_in_1974_marina_abramović_told/
 [PushshiftAPI]: https://github.com/pushshift/api
