@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 01-Nov-2021 03:52:11</sub></p>
+<p align="left"><sub>last updated at: 03-Nov-2021 03:52:15</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/jacklsd][source]</sub> |
-| **The largest hotel in the world, with a staggering 10,000 rooms is currently under construction in Saudi Arabia.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/l1xsgziquqv71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Apxm][source]</sub> |
+| **Ukrainians overstepping the anti-tank mines.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/quchyposjjw71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/qg0ub4/the_largest_hotel_in_the_world_with_a_staggering/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/qiwlq9/ukrainians_overstepping_the_antitank_mines/
 [PushshiftAPI]: https://github.com/pushshift/api
