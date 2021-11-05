@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 03-Nov-2021 03:52:15</sub></p>
+<p align="left"><sub>last updated at: 05-Nov-2021 03:52:12</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Apxm][source]</sub> |
-| **Ukrainians overstepping the anti-tank mines.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/quchyposjjw71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/russianlexicon][source]</sub> |
+| **Free Coca (raw material for Cocaine) leaves in an airport in Peru to help with altitude sickness** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/lzm0mqltc1x71.png" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/qiwlq9/ukrainians_overstepping_the_antitank_mines/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/qklp9n/free_coca_raw_material_for_cocaine_leaves_in_an/
 [PushshiftAPI]: https://github.com/pushshift/api
