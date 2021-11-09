@@ -26,13 +26,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 07-Nov-2021 03:52:12</sub></p>
+<p align="left"><sub>last updated at: 09-Nov-2021 03:52:20</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/russianlexicon][source]</sub> |
-| **Free Coca (raw material for Cocaine) leaves in an airport in Peru to help with altitude sickness** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/lzm0mqltc1x71.png" width="550" /> </p>|
+| <sub>[Posted by: u/Round-Development586][source]</sub> |
+| **Postal delivery guy cooks steak in truck to show inhumane working conditions** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/kfvhqhg8p7x71.png" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +45,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/qklp9n/free_coca_raw_material_for_cocaine_leaves_in_an/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/ql8jlx/postal_delivery_guy_cooks_steak_in_truck_to_show/
 [PushshiftAPI]: https://github.com/pushshift/api
