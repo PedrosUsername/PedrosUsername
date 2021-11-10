@@ -29,17 +29,14 @@ if( len(post) > 0 ):
     content = f"""### Hey, what's up?
 <img align="right" alt="GIF" src="https://github.com/PedrosUsername/PedrosUsername/blob/main/aha.gif?raw=true" width="500" height="320" />
 
-Name's Pedro Henrique, but you can call me Pedro. I'm a simple man, I'm
-interested in coding, animation, witch-house and video games.
-I like the different. When I'm working on something I try to be as creative and original as Possible.
+Hello I'm Pedro, I'm interested in coding, animation, witch-house and video games.
+I like the different, the creative and the original.
 
 ### More about me
 - **Currently working on:**  
 &nbsp;&nbsp;&nbsp;&nbsp;My web development skills
 - **Currently learning:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Spring, Django and Angular
-- **Looking to collaborate on:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Creative projects
+&nbsp;&nbsp;&nbsp;&nbsp;Spring and Angular
 - **Favorite song:**  
 &nbsp;&nbsp;&nbsp;&nbsp;DEVILNOTCRY — NotEnoughOfYou
 ___
