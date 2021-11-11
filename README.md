@@ -1,17 +1,14 @@
 ### Hey, what's up?
 <img align="right" alt="GIF" src="https://github.com/PedrosUsername/PedrosUsername/blob/main/aha.gif?raw=true" width="500" height="320" />
 
-Name's Pedro Henrique, but you can call me Pedro. I'm a simple man, I'm
-interested in coding, animation, witch-house and video games.
-I like the different. When I'm working on something I try to be as creative and original as Possible.
+Hello I'm Pedro, I'm interested in coding, animation, witch-house and video games.
+I like the different, the creative and the original.
 
 ### More about me
 - **Currently working on:**  
 &nbsp;&nbsp;&nbsp;&nbsp;My web development skills
 - **Currently learning:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Spring, Django and Angular
-- **Looking to collaborate on:**  
-&nbsp;&nbsp;&nbsp;&nbsp;Creative projects
+&nbsp;&nbsp;&nbsp;&nbsp;Spring and Angular
 - **Favorite song:**  
 &nbsp;&nbsp;&nbsp;&nbsp;DEVILNOTCRY — NotEnoughOfYou
 ___
@@ -26,13 +23,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 09-Nov-2021 03:52:20</sub></p>
+<p align="left"><sub>last updated at: 11-Nov-2021 03:52:10</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Round-Development586][source]</sub> |
-| **Postal delivery guy cooks steak in truck to show inhumane working conditions** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/kfvhqhg8p7x71.png" width="550" /> </p>|
+| <sub>[Posted by: u/Thereaper29][source]</sub> |
+| **It's never too late to acknowledge the reality that urban highways are a fixable mistake** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/m61dwhwu4tx71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -45,5 +42,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/ql8jlx/postal_delivery_guy_cooks_steak_in_truck_to_show/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/qnfer6/its_never_too_late_to_acknowledge_the_reality/
 [PushshiftAPI]: https://github.com/pushshift/api
