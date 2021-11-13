@@ -23,13 +23,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 11-Nov-2021 03:52:10</sub></p>
+<p align="left"><sub>last updated at: 13-Nov-2021 03:52:15</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Thereaper29][source]</sub> |
-| **It's never too late to acknowledge the reality that urban highways are a fixable mistake** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/m61dwhwu4tx71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/thebigchil73][source]</sub> |
+| **Just spotted by satellite: full-scale mock-up of a US aircraft carrier in a desert in NW China.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/693tjaljagy71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -42,5 +42,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/qnfer6/its_never_too_late_to_acknowledge_the_reality/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/qppdz5/just_spotted_by_satellite_fullscale_mockup_of_a/
 [PushshiftAPI]: https://github.com/pushshift/api
