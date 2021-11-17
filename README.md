@@ -23,13 +23,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 15-Nov-2021 03:52:13</sub></p>
+<p align="left"><sub>last updated at: 17-Nov-2021 03:52:10</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/thebigchil73][source]</sub> |
-| **Just spotted by satellite: full-scale mock-up of a US aircraft carrier in a desert in NW China.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/693tjaljagy71.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/KO_Stradivarius][source]</sub> |
+| **Proboscis monkey - Habitat is the southeast Asian island of Borneo and is found mostly in mangrove forests and on the coastal areas of the island** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/pg0xuro0zty71.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -42,5 +42,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/qppdz5/just_spotted_by_satellite_fullscale_mockup_of_a/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/qr3unv/proboscis_monkey_habitat_is_the_southeast_asian/
 [PushshiftAPI]: https://github.com/pushshift/api
