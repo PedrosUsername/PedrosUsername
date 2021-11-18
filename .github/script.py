@@ -27,10 +27,11 @@ if( len(post) > 0 ):
 
     f = open('README.md', 'w')
     content = f"""### Hey, what's up?
-<img align="right" alt="GIF" src="https://github.com/PedrosUsername/PedrosUsername/blob/main/aha.gif?raw=true" width="500" height="320" />
+<img align="right" alt="Pedro's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrosUsername&exclude_repo=HW2&layout=compact" />
 
-Hello I'm Pedro, I'm interested in coding, animation, witch-house and video games.
-I like the different, the creative and the original.
+I'm Pedro. Interested in coding, animation, witch-house and video games.<br>
+I like different, creative and original stuff.<br><br>
+Welcome to my profile!
 
 ### More about me
 - **Currently working on:**  
@@ -43,10 +44,6 @@ ___
 [<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-<p align="center">
-<img alt="Pedro's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrosUsername&exclude_repo=HW2&layout=compact" />
-</p>
-
 ___
 
 ### Bonus info +
