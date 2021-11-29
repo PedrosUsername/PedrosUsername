@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 27-Nov-2021 03:52:09</sub></p>
+<p align="left"><sub>last updated at: 29-Nov-2021 03:52:14</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/jesticular_torsion][source]</sub> |
-| **King Edward VII had a custom made “love chair”** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/nq583p8owx081.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/JediWithAnM4][source]</sub> |
+| **A renaissance painting of prisoner sentenced to death by starvation, under King Louis XIV, is secretly breast fed by his daughter, who was permitted to visit him.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/e3ien2oef6181.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -39,5 +39,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/qytowp/king_edward_vii_had_a_custom_made_love_chair/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/qzpscl/a_renaissance_painting_of_prisoner_sentenced_to/
 [PushshiftAPI]: https://github.com/pushshift/api
