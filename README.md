@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 07-Dec-2021 03:52:15</sub></p>
+<p align="left"><sub>last updated at: 09-Dec-2021 03:52:14</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Shayaan_F][source]</sub> |
-| **Cost Of Living in 1938** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/djk4r1l8ju281.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/no_cal_woolgrower][source]</sub> |
+| **From scratch dishtowels. I planted the seed, grew the flax, harvested the straw, processed the fiber, spun the linen then wove these 2 towels.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/45fxvqm7f8481.jpg" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -39,5 +39,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/r64o0v/cost_of_living_in_1938/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/rbgkox/from_scratch_dishtowels_i_planted_the_seed_grew/
 [PushshiftAPI]: https://github.com/pushshift/api
