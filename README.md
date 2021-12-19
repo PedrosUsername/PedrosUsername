@@ -18,18 +18,6 @@ ___
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 ___
 
-### Bonus info +
-
-<p align="left"><sub>last updated at: 19-Dec-2021 03:52:12</sub></p>
-
-|   |
-| --- |
-| <sub>[Posted by: u/ToughAcanthisitta451][source]</sub> |
-| **Pygopodidae is a group of Legless Geckos and looks and behaves like snakes,(even lacking eyelids), but they have external ears and flat forkless tongues.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/dlhyvaem7a581.png" width="550" /> </p>|
-|   |
-
-<sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
   
 
 
