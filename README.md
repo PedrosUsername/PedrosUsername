@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 29-Dec-2021 03:52:14</sub></p>
+<p align="left"><sub>last updated at: 31-Dec-2021 03:52:14</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/RedditAltsZUN][source]</sub> |
-| **The Soviets during WW2 used tanks so much to transport troop that they actually had specially drawn out diagrams specifying where the soldiers riding them should sit.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/6codgx4cz7781.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/JediRustyy][source]</sub> |
+| **A reconstruction of what the world's first modern human looked like from around 160,000 years ago. (Moesgaard Museum, Denmark)** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/sqxz0cp8eq881.png" width="550" /> </p>|
 |   |
 
 <sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
@@ -39,5 +39,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/rmn38r/the_soviets_during_ww2_used_tanks_so_much_to/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/rs9xnh/a_reconstruction_of_what_the_worlds_first_modern/
 [PushshiftAPI]: https://github.com/pushshift/api
