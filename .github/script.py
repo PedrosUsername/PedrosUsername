@@ -57,7 +57,6 @@ ___
 |<p align="center"> <img alt="image" src="{post['url']}" width="550" /> </p>|
 |   |
 
-<sub>[Reddit] r/{sub}'s most commented post in 7 days</sub>  
   
 
 
