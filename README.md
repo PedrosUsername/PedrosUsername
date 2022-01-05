@@ -29,7 +29,6 @@ ___
 |<p align="center"> <img alt="image" src="https://i.redd.it/xtqp42o01z881.jpg" width="550" /> </p>|
 |   |
 
-<sub>[Reddit] r/interestingasfuck's most commented post in 7 days</sub>  
   
 
 
