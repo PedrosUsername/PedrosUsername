@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 17-Jan-2022 03:52:19</sub></p>
+<p align="left"><sub>last updated at: 19-Jan-2022 03:52:12</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/yeetice][source]</sub> |
-| **(almost) all countries that have declared independence from Spain** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/3zwionprnsa81.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/musterduster284][source]</sub> |
+| **2001 Bhuj Earthquake Memorial designed by Pritzker Laureate BV Doshi** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/fc5l3zx5ygc81.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/s0bvt6/almost_all_countries_that_have_declared/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/s70qdl/2001_bhuj_earthquake_memorial_designed_by/
 [PushshiftAPI]: https://github.com/pushshift/api
