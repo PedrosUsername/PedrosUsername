@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 25-Jan-2022 03:52:13</sub></p>
+<p align="left"><sub>last updated at: 27-Jan-2022 03:52:19</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/musterduster284][source]</sub> |
-| **2001 Bhuj Earthquake Memorial designed by Pritzker Laureate BV Doshi** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/fc5l3zx5ygc81.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/DoroTenpai][source]</sub> |
+| **In 1920, Maharaja Jai Singh of Alwar couldn't take humiliation from the salesman of Rolls Royce showroom. Thus, he bought all the cars from the showroom and then asked the Municipality of Alwar to use them for collecting garbage from the streets.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/u1hqegwbqwd81.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/s70qdl/2001_bhuj_earthquake_memorial_designed_by/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/scp8sn/in_1920_maharaja_jai_singh_of_alwar_couldnt_take/
 [PushshiftAPI]: https://github.com/pushshift/api
