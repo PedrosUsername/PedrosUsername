@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 01-Feb-2022 03:52:13</sub></p>
+<p align="left"><sub>last updated at: 03-Feb-2022 03:52:16</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/DoroTenpai][source]</sub> |
-| **In 1920, Maharaja Jai Singh of Alwar couldn't take humiliation from the salesman of Rolls Royce showroom. Thus, he bought all the cars from the showroom and then asked the Municipality of Alwar to use them for collecting garbage from the streets.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/u1hqegwbqwd81.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Stotallytob3r][source]</sub> |
+| **Scan of the lung of a 54-year old man who died of Covid. Airspaces are cyan, open blood vessels are red and blocked, damaged blood vessels are yellow** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/99ikinkis9e81.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/scp8sn/in_1920_maharaja_jai_singh_of_alwar_couldnt_take/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/se4gsj/scan_of_the_lung_of_a_54year_old_man_who_died_of/
 [PushshiftAPI]: https://github.com/pushshift/api
