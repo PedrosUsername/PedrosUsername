@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 05-Feb-2022 03:52:15</sub></p>
+<p align="left"><sub>last updated at: 07-Feb-2022 03:52:13</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Londoner421][source]</sub> |
-| **This is the most photorealistic image of a Belgian Neanderthal to date.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/1uxra7zciif81.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/DicklessDeath][source]</sub> |
+| **"Classic" American Bully vs modern "Toadline" Bully** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ovj6foitl5g81.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/sj4pj6/this_is_the_most_photorealistic_image_of_a/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/slpji8/classic_american_bully_vs_modern_toadline_bully/
 [PushshiftAPI]: https://github.com/pushshift/api
