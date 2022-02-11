@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 09-Feb-2022 03:52:18</sub></p>
+<p align="left"><sub>last updated at: 11-Feb-2022 03:52:18</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/DicklessDeath][source]</sub> |
-| **"Classic" American Bully vs modern "Toadline" Bully** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/ovj6foitl5g81.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/nubin1][source]</sub> |
+| **The result of my dad not using a guard when using a guillotine** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ia94l0jy6ug81.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/slpji8/classic_american_bully_vs_modern_toadline_bully/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/soi0ts/the_result_of_my_dad_not_using_a_guard_when_using/
 [PushshiftAPI]: https://github.com/pushshift/api
