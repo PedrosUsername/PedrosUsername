@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 17-Feb-2022 03:52:10</sub></p>
+<p align="left"><sub>last updated at: 19-Feb-2022 03:52:11</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/stivgiobs][source]</sub> |
-| **This is a 3200-year old attendance sheet found in Deir el-Medina, Egypt. Reasons for worker absence include "embalming brother", "brewing beer" and "bitten by scorpion"** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/yju83k9jk1h81.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Haxdawg][source]</sub> |
+| **A crowd of angry parents hurl insults at 6 year-old Ruby Bridges as she enters a traditionally all-white school, the first black child to do so in the United States South, 1960. Bridges is just 67 today. (Colorized by me)** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/jbegzjtximh81.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/spc2rj/this_is_a_3200year_old_attendance_sheet_found_in/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/srly4v/a_crowd_of_angry_parents_hurl_insults_at_6/
 [PushshiftAPI]: https://github.com/pushshift/api
