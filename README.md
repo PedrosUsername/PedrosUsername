@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 23-Feb-2022 03:52:15</sub></p>
+<p align="left"><sub>last updated at: 25-Feb-2022 03:52:23</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/impendingfuckery][source]</sub> |
-| **Because of how far away and old the sun is, the light reaching earth today was made in the sun’s core roughly 1000,000 years ago** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/1ji0b0p6dai81.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/GabbaGabbaCool][source]</sub> |
+| **Let’s take a moment to appreciate this Ukrainian pilot named “The Ghost of Kyiv” for shooting down 6 Russian jets today. His name is Jordanov Jabinsky, a hero for the people #GLORYTOUKRAINE** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/h7m7ysrciwj81.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/suap0j/because_of_how_far_away_and_old_the_sun_is_the/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/t0u1dd/lets_take_a_moment_to_appreciate_this_ukrainian/
 [PushshiftAPI]: https://github.com/pushshift/api
