@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 09-Mar-2022 03:52:13</sub></p>
+<p align="left"><sub>last updated at: 11-Mar-2022 03:52:12</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/AhsFanAcct][source]</sub> |
-| **Russian millionaire Alex Konanykhin puts a million dollars on Putin’s head** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/mpfuc74506l81.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/lordkelvin13][source]</sub> |
+| **Discharged FGM-148 Javelin in Ukraine.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/hhvc6j1peom81.png" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/t5qtq2/russian_millionaire_alex_konanykhin_puts_a/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/tbh4p9/discharged_fgm148_javelin_in_ukraine/
 [PushshiftAPI]: https://github.com/pushshift/api
