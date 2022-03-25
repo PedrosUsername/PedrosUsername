@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 23-Mar-2022 03:55:15</sub></p>
+<p align="left"><sub>last updated at: 25-Mar-2022 03:52:09</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/gonewithwind67][source]</sub> |
-| **Map of the Ancient World from Roman perspective (AD 43). Rome considered itself the center of the world.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/qc7zhm9025o81.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/maifee][source]</sub> |
+| **The flag of Mozambique has AK-47 on it** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/2826icgfvbp81.png" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/th0jjt/map_of_the_ancient_world_from_roman_perspective/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/tm73p2/the_flag_of_mozambique_has_ak47_on_it/
 [PushshiftAPI]: https://github.com/pushshift/api
