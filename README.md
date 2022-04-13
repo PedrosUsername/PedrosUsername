@@ -18,6 +18,17 @@ ___
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 ___
 
+### Bonus info +
+
+<p align="left"><sub>last updated at: 13-Apr-2022 03:58:35</sub></p>
+
+|   |
+| --- |
+| <sub>[Posted by: u/nerdy_subha][source]</sub> |
+| **This hotel owner, James Brock, poured acid in his pool in 1965 at the Monson motor lodge just because black individuals wanted to relax and cool off in the pool too!** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/21bvgkprs3t81.png" width="550" /> </p>|
+|   |
+
   
 
 
@@ -27,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/u04979/hey_pretty_how_are_you_today_hope_youre_okay_i/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/u1zopw/this_hotel_owner_james_brock_poured_acid_in_his/
 [PushshiftAPI]: https://github.com/pushshift/api
