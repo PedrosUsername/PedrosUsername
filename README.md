@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 19-Apr-2022 04:17:15</sub></p>
+<p align="left"><sub>last updated at: 21-Apr-2022 04:26:21</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/nerdy_subha][source]</sub> |
-| **This hotel owner, James Brock, poured acid in his pool in 1965 at the Monson motor lodge just because black individuals wanted to relax and cool off in the pool too!** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/21bvgkprs3t81.png" width="550" /> </p>|
+| <sub>[Posted by: u/MistWeaver80][source]</sub> |
+| **Perseverance Rover Sees Solar Eclipse on Mars -- Phobos, Mars’ potato-shaped moon, crossing the face of the Sun. Credit: NASA/JPL-Caltech/ASU/MSSS/SSI** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/dhv7ze45lqu81.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/u1zopw/this_hotel_owner_james_brock_poured_acid_in_his/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/u84kx8/perseverance_rover_sees_solar_eclipse_on_mars/
 [PushshiftAPI]: https://github.com/pushshift/api
