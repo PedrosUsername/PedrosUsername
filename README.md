@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 01-May-2022 04:22:10</sub></p>
+<p align="left"><sub>last updated at: 03-May-2022 04:16:45</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/AlbaneseGummies327][source]</sub> |
-| **what a tweet!!!!!** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/r8rh5unwcqv81.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/TheAllMightyEgo][source]</sub> |
+| **A Centurion AVRE exploding upon ammo detonation, details in comments** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/1j4xwyugf8w81.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/ubtuwh/what_a_tweet/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/udqgkf/a_centurion_avre_exploding_upon_ammo_detonation/
 [PushshiftAPI]: https://github.com/pushshift/api
