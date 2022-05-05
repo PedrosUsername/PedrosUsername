@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 03-May-2022 04:16:45</sub></p>
+<p align="left"><sub>last updated at: 05-May-2022 04:17:54</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/TheAllMightyEgo][source]</sub> |
-| **A Centurion AVRE exploding upon ammo detonation, details in comments** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/1j4xwyugf8w81.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/lightiggy][source]</sub> |
+| **Between 1972 and 1982, Kiyotaka Katsuta is believed to have murdered up to 22 people in Japan. He was also an award-winning firefighter. This is Katsuta being interviewed on television in the midst of his killing spree, and after his arrest.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ll1gqfubxkx81.png" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/udqgkf/a_centurion_avre_exploding_upon_ammo_detonation/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/uiolws/between_1972_and_1982_kiyotaka_katsuta_is/
 [PushshiftAPI]: https://github.com/pushshift/api
