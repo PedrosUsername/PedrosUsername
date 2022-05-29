@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 27-May-2022 04:17:15</sub></p>
+<p align="left"><sub>last updated at: 29-May-2022 04:16:32</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/ISHIMURA_MJD][source]</sub> |
-| **This is not snow it's spider webs, Wagga Wagga - Australia [3072X2045]** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/ek6ilpaxdx191.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Mialove341800][source]</sub> |
+| **Guess his nickname😂😂** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ii4asyzuvy191.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/uyndka/this_is_not_snow_its_spider_webs_wagga_wagga/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/uysewm/guess_his_nickname/
 [PushshiftAPI]: https://github.com/pushshift/api
