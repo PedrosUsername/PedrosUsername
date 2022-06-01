@@ -20,7 +20,7 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 31-May-2022 04:18:16</sub></p>
+<p align="left"><sub>last updated at: 01-Jun-2022 04:59:26</sub></p>
 
 |   |
 | --- |
