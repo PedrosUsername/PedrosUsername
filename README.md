@@ -17,23 +17,6 @@ ___
 &nbsp;&nbsp;
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 ___
-
-### Bonus info +
-
-<p align="left"><sub>last updated at: 01-Jun-2022 04:59:26</sub></p>
-
-|   |
-| --- |
-| <sub>[Posted by: u/Mialove341800][source]</sub> |
-| **Guess his nickname😂😂** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/ii4asyzuvy191.jpg" width="550" /> </p>|
-|   |
-
-  
-
-
-
-  
   
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
