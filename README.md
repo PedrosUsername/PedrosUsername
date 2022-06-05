@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 03-Jun-2022 03:59:29</sub></p>
+<p align="left"><sub>last updated at: 05-Jun-2022 03:56:54</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Mialove341800][source]</sub> |
-| **Guess his nickname😂😂** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/ii4asyzuvy191.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Walmart-giveaway][source]</sub> |
+| **★Sign up and receive a $100 Walmart Giftcard!★** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/v52sixkdbh291.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/uysewm/guess_his_nickname/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/v0kb09/sign_up_and_receive_a_100_walmart_giftcard/
 [PushshiftAPI]: https://github.com/pushshift/api
