@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 17-Jun-2022 04:16:44</sub></p>
+<p align="left"><sub>last updated at: 19-Jun-2022 04:16:48</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Defiant-Ad-6979][source]</sub> |
-| **Avril TM link 🔥** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/bj4g63edt1591.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Swerwin][source]</sub> |
+| **Iceland’s Silfra fissure is the only place on earth where you can touch North America and Europe at the same time** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/wuiz91zqw7591.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/va5edb/avril_tm_link/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/vapp7e/icelands_silfra_fissure_is_the_only_place_on/
 [PushshiftAPI]: https://github.com/pushshift/api
