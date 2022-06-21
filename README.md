@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 19-Jun-2022 04:16:48</sub></p>
+<p align="left"><sub>last updated at: 21-Jun-2022 04:21:44</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Swerwin][source]</sub> |
-| **Iceland’s Silfra fissure is the only place on earth where you can touch North America and Europe at the same time** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/wuiz91zqw7591.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/scot816][source]</sub> |
+| **Last image of Keith Sapsford, 14yo Australian, who wanted to explore the world so he snuck into a plane's wheel-well from Sydney to Tokyo Feb 1970. It opened mid-air and the boy fell out. A photographer testing a new lens captured this moment and was shocked once he developed the film. (with link)** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/833n7ez1bl691.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/vapp7e/icelands_silfra_fissure_is_the_only_place_on/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/vfwng5/last_image_of_keith_sapsford_14yo_australian_who/
 [PushshiftAPI]: https://github.com/pushshift/api
