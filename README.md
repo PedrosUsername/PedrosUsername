@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 25-Jun-2022 04:13:14</sub></p>
+<p align="left"><sub>last updated at: 27-Jun-2022 04:37:34</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/criteriaz][source]</sub> |
-| **I was looking at some random facts online and came across this (link in comments)** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/affav26yo1791.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Mohamed-A-Abdallah][source]</sub> |
+| **This picture explains what a person sees while having a stroke, everything looks familiar to your brain but it doesn’t make any sense.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ynb3btxgkr791.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/vhojd2/i_was_looking_at_some_random_facts_online_and/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/vkedpb/this_picture_explains_what_a_person_sees_while/
 [PushshiftAPI]: https://github.com/pushshift/api
