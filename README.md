@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 09-Jul-2022 04:03:18</sub></p>
+<p align="left"><sub>last updated at: 11-Jul-2022 04:20:54</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/booega][source]</sub> |
-| **I travelled for two straight days to shoot the Milky Way core from the Himalayas** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/aazn7lgyi5991.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Organic-Connection33][source]</sub> |
+| **Update: Former Japanese prime minister Abe is reportedly dead after being shot from behind in Nara, Japan.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/6cpo71f95ba91.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/vpr3xf/i_travelled_for_two_straight_days_to_shoot_the/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/vu1c6y/update_former_japanese_prime_minister_abe_is/
 [PushshiftAPI]: https://github.com/pushshift/api
