@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 11-Jul-2022 04:20:54</sub></p>
+<p align="left"><sub>last updated at: 13-Jul-2022 04:21:50</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Organic-Connection33][source]</sub> |
-| **Update: Former Japanese prime minister Abe is reportedly dead after being shot from behind in Nara, Japan.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/6cpo71f95ba91.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/yv4nix][source]</sub> |
+| **Image explaining what's on the first JWST image (i took all my information from an AMAZING comment by u/Andromeda321** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/vbp5oqzpl1b91.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/vu1c6y/update_former_japanese_prime_minister_abe_is/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/vwz8ys/image_explaining_whats_on_the_first_jwst_image_i/
 [PushshiftAPI]: https://github.com/pushshift/api
