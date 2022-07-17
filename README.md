@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 15-Jul-2022 04:50:39</sub></p>
+<p align="left"><sub>last updated at: 17-Jul-2022 04:20:16</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/yv4nix][source]</sub> |
-| **Image explaining what's on the first JWST image (i took all my information from an AMAZING comment by u/Andromeda321** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/vbp5oqzpl1b91.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/CharlesBrooks][source]</sub> |
+| **Inside the Pianola from The Power of the Dog movie** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/mq7ugtf5ytb91.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/vwz8ys/image_explaining_whats_on_the_first_jwst_image_i/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/w047l4/inside_the_pianola_from_the_power_of_the_dog_movie/
 [PushshiftAPI]: https://github.com/pushshift/api
