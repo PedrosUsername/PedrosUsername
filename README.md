@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 29-Jul-2022 04:35:27</sub></p>
+<p align="left"><sub>last updated at: 31-Jul-2022 04:20:36</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Sedonawa][source]</sub> |
-| **I took a picture of the Pelican Nebula from my backyard!** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/7jphcdue2dd91.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/fromage21][source]</sub> |
+| **In 1975, a "Sexy Nessie" was built to lure out the Loch Ness Monster.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/tgj7cdaimie91.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/w6ap3n/i_took_a_picture_of_the_pelican_nebula_from_my/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/wb5zjb/in_1975_a_sexy_nessie_was_built_to_lure_out_the/
 [PushshiftAPI]: https://github.com/pushshift/api
