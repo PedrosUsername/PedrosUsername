@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 07-Aug-2022 04:10:16</sub></p>
+<p align="left"><sub>last updated at: 09-Aug-2022 04:26:29</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/MOCingbird][source]</sub> |
-| **This fully working "CLOCKWORK SOLAR SYSTEM" made of LEGO by user ChrisOrchard has already gained 3,573 supporters on LEGO IDEAS - but only by reaching 10,000 votes the model will get the chance of becoming a real LEGO set.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/s40eja31lwe91.png" width="550" /> </p>|
+| <sub>[Posted by: u/Limitless_yt89][source]</sub> |
+| **Case Closed** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/pf6eabtzqaf91.png" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/wcoebn/this_fully_working_clockwork_solar_system_made_of/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/weau1a/case_closed/
 [PushshiftAPI]: https://github.com/pushshift/api
