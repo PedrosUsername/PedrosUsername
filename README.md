@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 09-Aug-2022 04:26:29</sub></p>
+<p align="left"><sub>last updated at: 11-Aug-2022 04:10:55</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Limitless_yt89][source]</sub> |
-| **Case Closed** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/pf6eabtzqaf91.png" width="550" /> </p>|
+| <sub>[Posted by: u/chromAdjust][source]</sub> |
+| **I found a new way to mix stuff that will remove single use containers from cosmetics, cleaning products, personal care and all artistic mediums within the next 5 years!** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/e9bnq0m2apf91.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/weau1a/case_closed/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/wg1kn7/i_found_a_new_way_to_mix_stuff_that_will_remove/
 [PushshiftAPI]: https://github.com/pushshift/api
