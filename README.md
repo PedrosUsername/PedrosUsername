@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 11-Aug-2022 04:10:55</sub></p>
+<p align="left"><sub>last updated at: 13-Aug-2022 04:05:23</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/chromAdjust][source]</sub> |
-| **I found a new way to mix stuff that will remove single use containers from cosmetics, cleaning products, personal care and all artistic mediums within the next 5 years!** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/e9bnq0m2apf91.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Stotallytob3r][source]</sub> |
+| **France is facing its worst drought since records began. This is a tributary of the River Loire** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/x946fopy94h91.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/wg1kn7/i_found_a_new_way_to_mix_stuff_that_will_remove/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/wlwnu6/france_is_facing_its_worst_drought_since_records/
 [PushshiftAPI]: https://github.com/pushshift/api
