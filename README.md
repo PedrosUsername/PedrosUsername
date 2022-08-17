@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 15-Aug-2022 04:49:52</sub></p>
+<p align="left"><sub>last updated at: 17-Aug-2022 04:55:45</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Stotallytob3r][source]</sub> |
-| **France is facing its worst drought since records began. This is a tributary of the River Loire** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/x946fopy94h91.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/thebadwitch13][source]</sub> |
+| **🤔🤔🤔** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/16qiubhxb1i91.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/wlwnu6/france_is_facing_its_worst_drought_since_records/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/wpoomk/_/
 [PushshiftAPI]: https://github.com/pushshift/api
