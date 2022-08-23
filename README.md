@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 21-Aug-2022 04:19:42</sub></p>
+<p align="left"><sub>last updated at: 23-Aug-2022 05:08:02</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/thebadwitch13][source]</sub> |
-| **🤔🤔🤔** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/16qiubhxb1i91.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/dctroll_][source]</sub> |
+| **Roman capital (2.12m/6.96 ft high) from Rome, Italy** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/2eoikead5ri91.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/wpoomk/_/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/wsrtye/roman_capital_212m696_ft_high_from_rome_italy/
 [PushshiftAPI]: https://github.com/pushshift/api
