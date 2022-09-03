@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 01-Sep-2022 05:05:15</sub></p>
+<p align="left"><sub>last updated at: 03-Sep-2022 04:48:50</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/VerySlump][source]</sub> |
-| **Wanna see camouflage at work? Zoom in** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/bfgo9qsz02k91.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/CharlesBrooks][source]</sub> |
+| **Inside a 240 year old cello** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/u9dt2p41gjl91.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/wy8cs5/wanna_see_camouflage_at_work_zoom_in/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/x4gxwl/inside_a_240_year_old_cello/
 [PushshiftAPI]: https://github.com/pushshift/api
