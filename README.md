@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 07-Sep-2022 05:20:41</sub></p>
+<p align="left"><sub>last updated at: 09-Sep-2022 05:02:28</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/CharlesBrooks][source]</sub> |
-| **Inside a 240 year old cello** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/u9dt2p41gjl91.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/KadynOnWii][source]</sub> |
+| **Rest In Peace Queen Elizabeth II aged 96** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/retu0jatjom91.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/x4gxwl/inside_a_240_year_old_cello/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/x98c2e/rest_in_peace_queen_elizabeth_ii_aged_96/
 [PushshiftAPI]: https://github.com/pushshift/api
