@@ -18,17 +18,6 @@ ___
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 ___
 
-### Bonus info +
-
-<p align="left"><sub>last updated at: 17-Sep-2022 04:49:45</sub></p>
-
-|   |
-| --- |
-| <sub>[Posted by: u/Charming_Rub_2245][source]</sub> |
-| **Assalam o Alaikum Brothers And Sisters i,am Online Quran teacher Good news for Muslims living in America🇺🇸 Canada🇨🇦 Australia 🇦🇺 London🇦🇮 and around the world❤️❤️You and your family's children can learn the. (1) Nazra Quran (2)Namaz (3) Kalimy (4) masnon Prayers (5)Tajweed (6)Tafseer (7)** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/5yulwatc81n91.jpg" width="550" /> </p>|
-|   |
-
   
 
 
