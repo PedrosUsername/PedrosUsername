@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 15-Sep-2022 05:09:34</sub></p>
+<p align="left"><sub>last updated at: 17-Sep-2022 04:49:45</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/KadynOnWii][source]</sub> |
-| **Rest In Peace Queen Elizabeth II aged 96** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/retu0jatjom91.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Charming_Rub_2245][source]</sub> |
+| **Assalam o Alaikum Brothers And Sisters i,am Online Quran teacher Good news for Muslims living in America🇺🇸 Canada🇨🇦 Australia 🇦🇺 London🇦🇮 and around the world❤️❤️You and your family's children can learn the. (1) Nazra Quran (2)Namaz (3) Kalimy (4) masnon Prayers (5)Tajweed (6)Tafseer (7)** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/5yulwatc81n91.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/x98c2e/rest_in_peace_queen_elizabeth_ii_aged_96/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/xajv7w/assalam_o_alaikum_brothers_and_sisters_iam_online/
 [PushshiftAPI]: https://github.com/pushshift/api
