@@ -16,6 +16,19 @@ ___
 [<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+___
+
+### Bonus info +
+
+<p align="left"><sub>last updated at: 21-Sep-2022 05:11:23</sub></p>
+
+|   |
+| --- |
+| <sub>[Posted by: u/Double-Direction3402][source]</sub> |
+| **Find me at https://onlyfans.com/u261821533 and tell me your bad habits 🫦** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/kzju19bafao91.jpg" width="550" /> </p>|
+|   |
+
   
 
 
