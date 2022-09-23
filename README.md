@@ -18,6 +18,19 @@ ___
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 ___
 
+### Bonus info +
+
+<p align="left"><sub>last updated at: 23-Sep-2022 05:10:44</sub></p>
+
+|   |
+| --- |
+| <sub>[Posted by: u/Chrisjay5][source]</sub> |
+| **Plexfinance.org Thank you for doing this I’m grateful ✅✅✅ my profits are getting huge** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/42iii0v9f8p91.jpg" width="550" /> </p>|
+|   |
+
+  
+
 
 
   
@@ -25,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/xg3bvc/find_me_at_httpsonlyfanscomu261821533_and_tell_me/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/xk1bup/plexfinanceorg_thank_you_for_doing_this_im/
 [PushshiftAPI]: https://github.com/pushshift/api
