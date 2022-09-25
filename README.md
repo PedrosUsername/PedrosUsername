@@ -16,21 +16,6 @@ ___
 [<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-___
-
-### Bonus info +
-
-<p align="left"><sub>last updated at: 25-Sep-2022 04:52:59</sub></p>
-
-|   |
-| --- |
-| <sub>[Posted by: u/Chrisjay5][source]</sub> |
-| **Plexfinance.org Thank you for doing this I’m grateful ✅✅✅ my profits are getting huge** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/42iii0v9f8p91.jpg" width="550" /> </p>|
-|   |
-
-  
-
 
 
   
