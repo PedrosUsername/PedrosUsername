@@ -16,6 +16,21 @@ ___
 [<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+___
+
+### Bonus info +
+
+<p align="left"><sub>last updated at: 29-Sep-2022 05:14:26</sub></p>
+
+|   |
+| --- |
+| <sub>[Posted by: u/livelifeontheedge1][source]</sub> |
+| **Starlink satellites seen from WA state last night** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/z6hdtrg340q91.jpg" width="550" /> </p>|
+|   |
+
+  
+
 
 
   
@@ -23,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/xk1bup/plexfinanceorg_thank_you_for_doing_this_im/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/xnmh22/starlink_satellites_seen_from_wa_state_last_night/
 [PushshiftAPI]: https://github.com/pushshift/api
