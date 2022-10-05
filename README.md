@@ -16,18 +16,6 @@ ___
 [<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-___
-
-### Bonus info +
-
-<p align="left"><sub>last updated at: 05-Oct-2022 04:28:56</sub></p>
-
-|   |
-| --- |
-| <sub>[Posted by: u/TheBlogsPedia][source]</sub> |
-| **There are some insects(Demodex) that lives in human Eye Lashes and they comes out at night and eat dead cells of our face And They also do sex at our faces. Is this not Weird😀** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/2b96kr50vyq91.jpg" width="550" /> </p>|
-|   |
 
   
 
