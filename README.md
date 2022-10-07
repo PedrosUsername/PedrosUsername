@@ -16,6 +16,18 @@ ___
 [<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+___
+
+### Bonus info +
+
+<p align="left"><sub>last updated at: 07-Oct-2022 04:38:18</sub></p>
+
+|   |
+| --- |
+| <sub>[Posted by: u/CharlesBrooks][source]</sub> |
+| **The Strings of a Steinway Grand Piano** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/hlrtakcqd4s91.jpg" width="550" /> </p>|
+|   |
 
   
 
@@ -26,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/xrx0po/there_are_some_insectsdemodex_that_lives_in_human/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/xwwzla/the_strings_of_a_steinway_grand_piano/
 [PushshiftAPI]: https://github.com/pushshift/api
