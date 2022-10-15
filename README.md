@@ -16,6 +16,23 @@ ___
 [<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+___
+
+### Bonus info +
+
+<p align="left"><sub>last updated at: 15-Oct-2022 05:03:41</sub></p>
+
+|   |
+| --- |
+| <sub>[Posted by: u/Thickgirl_OF][source]</sub> |
+| **Come subscribe to my Onlyfans account..its only $4.50 for the next 3 days so hurry 😉💋 I post nudes, sexy pics, b/g content, adult content, custom content and more 🥵 let's have fun together 💦 ⬇️LINK⬇️** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/n4ih9fokiqs91.jpg" width="550" /> </p>|
+|   |
+
+  
+
+
+
   
   
   
