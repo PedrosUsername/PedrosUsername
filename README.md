@@ -18,6 +18,18 @@ ___
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 ___
 
+### Bonus info +
+
+<p align="left"><sub>last updated at: 17-Oct-2022 05:16:22</sub></p>
+
+|   |
+| --- |
+| <sub>[Posted by: u/vect77][source]</sub> |
+| **Police Departments in Canada give out "positive tickets" to kids when they see them doing something positive.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/v7sam7t43zt91.jpg" width="550" /> </p>|
+|   |
+
+  
 
 
 
@@ -26,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/xzforf/come_subscribe_to_my_onlyfans_accountits_only_450/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/y4o6zl/police_departments_in_canada_give_out_positive/
 [PushshiftAPI]: https://github.com/pushshift/api
