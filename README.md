@@ -16,19 +16,6 @@ ___
 [<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-___
-
-### Bonus info +
-
-<p align="left"><sub>last updated at: 25-Oct-2022 05:20:08</sub></p>
-
-|   |
-| --- |
-| <sub>[Posted by: u/makemoneyonline414][source]</sub> |
-| **★Get Your Job at Walmart &amp; earn $15 Per Hour🤩★Submit Your E-mail** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/1vzijaarnqv91.png" width="550" /> </p>|
-|   |
-
   
 
 
