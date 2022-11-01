@@ -16,6 +16,19 @@ ___
 [<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 &nbsp;&nbsp;
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+___
+
+### Bonus info +
+
+<p align="left"><sub>last updated at: 01-Nov-2022 05:02:26</sub></p>
+
+|   |
+| --- |
+| <sub>[Posted by: u/filondo][source]</sub> |
+| **The result of a 56-hour facial reconstruction operation** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/d89i9ygnr0x91.png" width="550" /> </p>|
+|   |
+
   
 
 
@@ -25,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/yc3xnm/get_your_job_at_walmart_earn_15_per_hoursubmit/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/yhs3ms/the_result_of_a_56hour_facial_reconstruction/
 [PushshiftAPI]: https://github.com/pushshift/api
