@@ -20,13 +20,13 @@ ___
 
 ### Bonus info +
 
-<p align="left"><sub>last updated at: 03-Nov-2022 04:23:25</sub></p>
+<p align="left"><sub>last updated at: 05-Nov-2022 04:12:28</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/filondo][source]</sub> |
-| **The result of a 56-hour facial reconstruction operation** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/d89i9ygnr0x91.png" width="550" /> </p>|
+| <sub>[Posted by: u/FarmSuch5021][source]</sub> |
+| **Donatella Versace before and after the plastic surgery** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/m5l7cz4hkxx91.jpg" width="550" /> </p>|
 |   |
 
   
@@ -38,5 +38,5 @@ ___
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://www.reddit.com/r/interestingasfuck/comments/yhs3ms/the_result_of_a_56hour_facial_reconstruction/
+[source]: https://www.reddit.com/r/interestingasfuck/comments/yly4nm/donatella_versace_before_and_after_the_plastic/
 [PushshiftAPI]: https://github.com/pushshift/api
