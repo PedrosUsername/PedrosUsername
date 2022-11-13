@@ -18,16 +18,6 @@ ___
 [<img align="right" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 ___
 
-### Bonus info +
-
-<p align="left"><sub>last updated at: 13-Nov-2022 04:17:03</sub></p>
-
-|   |
-| --- |
-| <sub>[Posted by: u/katherinabit][source]</sub> |
-| **26 [F4M] Available for sex paid date, good price (24h a day) I give weed for free, drink also.i receive🏡 I move🚙 I offer you: ❤️😍😍 Doggy, Anal, Blowjob, and other massages including whatever you want👅🍆💦HMU on Snapchat @katherinabit Test number @ 9295966233** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/yna5qwzuwwy91.jpg" width="550" /> </p>|
-|   |
 
   
 
