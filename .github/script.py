@@ -141,7 +141,7 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 
 |   |
 | --- |
-| <sub>[Posted by: u/{post['author']}][source] &nbsp; {getTimeElapsed(seconds_elapsed)}</sub> |
+| <sub>[Posted by: u/{post['author']}][source]</sub> |
 | **{post['title']}** | 
 |<p align="center"> <img alt="image" src="{post['url']}" width="550" /> </p>|
 |   |
