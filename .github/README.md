@@ -1,8 +1,7 @@
 ### Hey, what's up?
 <img align="right" alt="Pedro's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrosUsername&exclude_repo=HW2&layout=compact" />
 
-I'm Pedro. I like coding, animation, witch-house and video games.<br>
-I like the different, the creative and the original.<br><br>
+I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 
 ### More about me
 - **Currently working on:**  
@@ -12,9 +11,9 @@ I like the different, the creative and the original.<br><br>
 - **Favorite song:**  
 &nbsp;&nbsp;&nbsp;&nbsp;DEVILNOTCRY — NotEnoughOfYou<br><br>
 
-### Recently peaked on r/foodporn
+### Scored well on r/foodporn
 
-<p align="left"><sub>last updated at: 14-Nov-2022 02:21:07</sub></p>
+<p align="left"><sub>last updated at: 14-Nov-2022 02:34:11</sub></p>
 
 |   |
 | --- |
