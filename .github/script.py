@@ -14,7 +14,7 @@ import os
 
 
 SUB = sys.argv[1] if len(sys.argv) > 1 else None
-TODAY = datetime.now().strftime('%d-%b-%Y %H:%M:%S')
+TODAY = datetime.now()
 
 
 
@@ -78,6 +78,22 @@ def scoreCounter(post):
 
 
 
+def getTimeElapsed(seconds):
+    hours = divmod(seconds, 3600)[0]
+    days = divmod(seconds, 86400)[0]
+
+    pluralHours = '' if hours < 2 else 's'
+    pluralDays = '' if days < 2 else 's'
+
+    return (f"{format(days, '.0f')} day{pluralDays} ago") if days > 0 else (f"{format(hours, '.0f')} hour{pluralHours} ago")
+
+
+
+
+
+
+
+
 
 
 
@@ -94,6 +110,7 @@ posts.sort(key = scoreCounter, reverse= True)
 
 if( len(posts) > 0 ):
     post = posts[0]
+    seconds_elapsed = (TODAY - datetime.fromtimestamp(post['created_utc'])).total_seconds()
 
     print('******************** selected')
     print("title: " + post['title'])
@@ -118,13 +135,13 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 - **Favorite song:**  
 &nbsp;&nbsp;&nbsp;&nbsp;DEVILNOTCRY — NotEnoughOfYou<br><br>
 
-### Scored well on r/{SUB}
+### Scored well on r/{SUB} recently:
 
-<p align="left"><sub>last updated at: {TODAY}</sub></p>
+<p align="left"><sub>last updated at: {TODAY.strftime('%d %b %Y at %H:%M:%S')}</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/{post['author']}][source] &nbsp;&nbsp;&nbsp;&nbsp; at {datetime.fromtimestamp(post['created_utc']).strftime('%d-%b-%Y %H:%M:%S')}</sub> |
+| <sub>[Posted by: u/{post['author']}][source] &nbsp; {getTimeElapsed(seconds_elapsed)}</sub> |
 | **{post['title']}** | 
 |<p align="center"> <img alt="image" src="{post['url']}" width="550" /> </p>|
 |   |

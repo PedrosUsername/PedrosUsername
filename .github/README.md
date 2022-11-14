@@ -11,15 +11,15 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 - **Favorite song:**  
 &nbsp;&nbsp;&nbsp;&nbsp;DEVILNOTCRY — NotEnoughOfYou<br><br>
 
-### Scored well on r/foodporn
+### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 14-Nov-2022 02:34:11</sub></p>
+<p align="left"><sub>last updated at: 14 Nov 2022 at 03:40:15</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/aminorman][source] &nbsp;&nbsp;&nbsp;&nbsp; at 12-Nov-2022 09:44:51</sub> |
-| **Potato Pavé** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/6nkycsq7niz91.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/justpie][source] &nbsp; 17 hours ago</sub> |
+| **My stuffed cabbage is aesthetically pleasing!** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/hzb79dhijrz91.jpg" width="550" /> </p>|
 |   |
 
   
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/yt62e5/potato_pavé/
+[source]: https://reddit.com/r/FoodPorn/comments/yu1yfo/my_stuffed_cabbage_is_aesthetically_pleasing/
 [redditAPI]: https://www.reddit.com/dev/api/
