@@ -17,7 +17,7 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 
 |   |
 | --- |
-| <sub>[Posted by: u/justpie][source] &nbsp; 17 hours ago</sub> |
+| <sub>[Posted by: u/justpie][source]</sub> |
 | **My stuffed cabbage is aesthetically pleasing!** | 
 |<p align="center"> <img alt="image" src="https://i.redd.it/hzb79dhijrz91.jpg" width="550" /> </p>|
 |   |
