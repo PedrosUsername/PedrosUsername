@@ -2,13 +2,17 @@ name: daily
  
 on:
   schedule:
-    - cron: '45 3 */2 * *'
+    - cron: '30 */1 * * *'
     
   workflow_dispatch:
 
 jobs:
   schedule-push:
     runs-on: ubuntu-latest
+    env:
+      CLIENT_ID: ${{ secrets.CLIENT_ID }}
+      SECRET_KEY: ${{ secrets.SECRET_KEY }}
+     
     steps:
       - name: checkout
         uses: actions/checkout@v2
