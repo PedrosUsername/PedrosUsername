@@ -27,7 +27,7 @@ TODAY = datetime.now()
 
 def queryGActionsApp(SUB):
     if(SUB == None):
-        return None
+        return []
 
     headers = buildHeaders()
 
@@ -78,9 +78,9 @@ def scoreCounter(post):
 
 
 
-def getTimeElapsed(seconds):
-    hours = divmod(seconds, 3600)[0]
-    days = divmod(seconds, 86400)[0]
+def getTimeElapsed(seconds): # can't make it display the same value as reddit's posts
+    hours = round(seconds / 3600)
+    days = round(seconds / 86400)
 
     pluralHours = '' if hours < 2 else 's'
     pluralDays = '' if days < 2 else 's'
@@ -141,7 +141,7 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 
 |   |
 | --- |
-| <sub>[Posted by: u/{post['author']}][source] {getTimeElapsed(seconds_elapsed)}</sub> |
+| <sub>[Posted by: u/{post['author']}][source]</sub> |
 | **{post['title']}** | 
 |<p align="center"> <img alt="image" src="{post['url']}" width="550" /> </p>|
 |   |
