@@ -12,6 +12,7 @@ jobs:
     env:
       CLIENT_ID: ${{ secrets.CLIENT_ID }}
       SECRET_KEY: ${{ secrets.SECRET_KEY }}
+      R_PASSWORD: ${{ secrets.R_PASSWORD }}
      
     steps:
       - name: checkout
