@@ -13,7 +13,7 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 
 ### Scored well on r/interestingasfuck recently:
 
-<p align="left"><sub>last updated at: 15 Nov 2022 at 16:50:52</sub></p>
+<p align="left"><sub>last updated at: 15 Nov 2022 at 17:36:41</sub></p>
 
 |   |
 | --- |
