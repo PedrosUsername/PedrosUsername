@@ -31,5 +31,5 @@ jobs:
           git config --global user.email "pedro-bot@actions.com"
           git config --global user.name "pedro-bot"
           git add -A
-          git commit -m "update"
+          git commit -m "README auto update"
           git push origin main
