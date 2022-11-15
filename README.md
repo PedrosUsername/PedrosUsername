@@ -11,15 +11,15 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 - **Favorite song:**  
 &nbsp;&nbsp;&nbsp;&nbsp;DEVILNOTCRY — NotEnoughOfYou<br><br>
 
-### Scored well on r/foodporn recently:
+### Scored well on r/aww recently:
 
-<p align="left"><sub>last updated at: 15 Nov 2022 at 21:18:46</sub></p>
+<p align="left"><sub>last updated at: 15 Nov 2022 at 18:57:36</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/NightsWatch23][source] 1 day ago</sub> |
-| **I made some lasagna for the very first time! Took me forever lol** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/ju8sxc34fwz91.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Blonde_onfilm][source]</sub> |
+| **He looks very happy with his new house with a terrace [OC]** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/8pk8fngur00a1.jpg" width="550" /> </p>|
 |   |
 
   
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/yuqk81/i_made_some_lasagna_for_the_very_first_time_took/
+[source]: https://reddit.com/r/aww/comments/yvj89t/he_looks_very_happy_with_his_new_house_with_a/
 [redditAPI]: https://www.reddit.com/dev/api/
