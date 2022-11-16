@@ -11,15 +11,15 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 - **Favorite song:**  
 &nbsp;&nbsp;&nbsp;&nbsp;DEVILNOTCRY — NotEnoughOfYou<br><br>
 
-### Scored well on r/flowers recently:
+### Scored well on r/cosplaygirls recently:
 
-<p align="left"><sub>last updated at: 15 Nov 2022 at 21:17:28</sub></p>
+<p align="left"><sub>last updated at: 16 Nov 2022 at 17:04:11</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Ali_Elkahtani_3519][source]</sub> |
-| **🌻💛💛** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/cnlz25kioyz91.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Far_Barnacle_4581][source]</sub> |
+| **Irina Meier as Panam Palmer (Cyberpunk 2077)** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/qk6ficm2q60a1.jpg" width="550" /> </p>|
 |   |
 
   
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/flowers/comments/yuzp7l/_/
+[source]: https://reddit.com/r/cosplaygirls/comments/yw2j8y/irina_meier_as_panam_palmer_cyberpunk_2077/
 [redditAPI]: https://www.reddit.com/dev/api/
