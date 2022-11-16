@@ -78,14 +78,20 @@ def scoreCounter(post):
 
 
 
-def getTimeElapsed(seconds): # can't make it display the same value as reddit's posts
-    hours = round(seconds / 3600)
-    days = round(seconds / 86400)
+def getTimeElapsed(seconds):
+    rawHours = seconds / 3600
+    rawDays = seconds / 86400
+
+    hours = round(rawHours)
+    days = round(rawDays)
 
     pluralHours = '' if hours < 2 else 's'
     pluralDays = '' if days < 2 else 's'
 
-    return (f"{format(days, '.0f')} day{pluralDays} ago") if days > 0 else (f"{format(hours, '.0f')} hour{pluralHours} ago")
+    print(f"{format(rawDays, '.2f')} day{pluralDays} ago")
+    print(f"{format(rawHours, '.2f')} hour{pluralHours} ago")
+
+    return (f"{format(days, '.0f')} day{pluralDays} ago") if rawDays > 1 else (f"{format(hours, '.0f')} hour{pluralHours} ago")
 
 
 

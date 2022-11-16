@@ -11,15 +11,15 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 - **Favorite song:**  
 &nbsp;&nbsp;&nbsp;&nbsp;DEVILNOTCRY — NotEnoughOfYou<br><br>
 
-### Scored well on r/aww recently:
+### Scored well on r/flowers recently:
 
-<p align="left"><sub>last updated at: 15 Nov 2022 at 18:57:36</sub></p>
+<p align="left"><sub>last updated at: 15 Nov 2022 at 21:10:55</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Blonde_onfilm][source]</sub> |
-| **He looks very happy with his new house with a terrace [OC]** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/8pk8fngur00a1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Ali_Elkahtani_3519][source]</sub> |
+| **🌻💛💛** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/cnlz25kioyz91.jpg" width="550" /> </p>|
 |   |
 
   
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/aww/comments/yvj89t/he_looks_very_happy_with_his_new_house_with_a/
+[source]: https://reddit.com/r/flowers/comments/yuzp7l/_/
 [redditAPI]: https://www.reddit.com/dev/api/
