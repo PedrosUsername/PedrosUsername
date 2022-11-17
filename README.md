@@ -11,15 +11,15 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 - **Favorite song:**  
 &nbsp;&nbsp;&nbsp;&nbsp;DEVILNOTCRY — NotEnoughOfYou<br><br>
 
-### Scored well on r/cosplaygirls recently:
+### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 16 Nov 2022 at 17:05:38</sub></p>
+<p align="left"><sub>last updated at: 17 Nov 2022 at 04:21:16</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Far_Barnacle_4581][source]</sub> |
-| **Irina Meier as Panam Palmer (Cyberpunk 2077)** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/qk6ficm2q60a1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/court_lyyn][source]</sub> |
+| **homemade fries, with Anthony Bourdains Mortadella sandwich.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/nqozofzsyc0a1.jpg" width="550" /> </p>|
 |   |
 
   
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/cosplaygirls/comments/yw2j8y/irina_meier_as_panam_palmer_cyberpunk_2077/
+[source]: https://reddit.com/r/FoodPorn/comments/ywtore/homemade_fries_with_anthony_bourdains_mortadella/
 [redditAPI]: https://www.reddit.com/dev/api/
