@@ -13,13 +13,13 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 24 Nov 2022 at 15:30:41</sub></p>
+<p align="left"><sub>last updated at: 25 Nov 2022 at 15:29:49</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/darkrealm190][source]</sub> |
-| **My Korean School Lunch of Oxtail Soup, Japchae, and Various Banchan** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/a1b1sa2x4m1a1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/MrBloops][source]</sub> |
+| **Thanksgiving dinner made by a Brit. . . Crispy skinned turkey, creamy mash, crouton, sausage meat and sage stuffing, roasted butternut squash with a pinch of paprika, warmed spicy green bean, green onion and cabbage salad and cranberry sauce. All made from scratch.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/j6yzgg735z1a1.jpg" width="550" /> </p>|
 |   |
 
   
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/z25uzl/my_korean_school_lunch_of_oxtail_soup_japchae_and/
+[source]: https://reddit.com/r/FoodPorn/comments/z3pjoj/thanksgiving_dinner_made_by_a_brit_crispy_skinned/
 [redditAPI]: https://www.reddit.com/dev/api/
