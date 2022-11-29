@@ -13,13 +13,13 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 28 Nov 2022 at 15:27:00</sub></p>
+<p align="left"><sub>last updated at: 29 Nov 2022 at 15:30:58</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/SteveTheKat2][source]</sub> |
-| **Local pizza, just too good not to share.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/zl7jcvhecg2a1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/123comicbro][source]</sub> |
+| **A few days late, but here's a cornucopia I made out of bread for Thanksgiving** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/zlu2xjofup2a1.jpg" width="550" /> </p>|
 |   |
 
   
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/z5q05v/local_pizza_just_too_good_not_to_share/
+[source]: https://reddit.com/r/FoodPorn/comments/z70i3d/a_few_days_late_but_heres_a_cornucopia_i_made_out/
 [redditAPI]: https://www.reddit.com/dev/api/
