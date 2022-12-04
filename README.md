@@ -13,13 +13,13 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 03 Dec 2022 at 15:27:09</sub></p>
+<p align="left"><sub>last updated at: 04 Dec 2022 at 15:27:11</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/melissabrielle][source]</sub> |
-| **Nothing hits the spot like some spicy vodka rigatoni!** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/n8uuhlckrb3a1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/kylemcfleebag][source]</sub> |
+| **Spicy chicken burger we sell out of our little burger shop.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/6bpuxuk8sp3a1.jpg" width="550" /> </p>|
 |   |
 
   
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/z9n3xu/nothing_hits_the_spot_like_some_spicy_vodka/
+[source]: https://reddit.com/r/FoodPorn/comments/zbepxo/spicy_chicken_burger_we_sell_out_of_our_little/
 [redditAPI]: https://www.reddit.com/dev/api/
