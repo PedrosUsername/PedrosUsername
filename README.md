@@ -13,13 +13,13 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 10 Dec 2022 at 15:27:09</sub></p>
+<p align="left"><sub>last updated at: 11 Dec 2022 at 15:27:27</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/morganripley669][source]</sub> |
-| **Was craving steak and potatoes but didn’t want to go out, so i whipped it up myself.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/4czt91rz3u4a1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/aminorman][source]</sub> |
+| **9 bangers banging, 3 sunny eggs, 2 oven toasts and a pat of butter on some creamy grits.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/j5k9tqr1c25a1.jpg" width="550" /> </p>|
 |   |
 
   
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/zglqvd/was_craving_steak_and_potatoes_but_didnt_want_to/
+[source]: https://reddit.com/r/FoodPorn/comments/zhsayb/9_bangers_banging_3_sunny_eggs_2_oven_toasts_and/
 [redditAPI]: https://www.reddit.com/dev/api/
