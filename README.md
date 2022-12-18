@@ -13,13 +13,13 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 17 Dec 2022 at 15:25:28</sub></p>
+<p align="left"><sub>last updated at: 18 Dec 2022 at 15:25:25</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/cookinwithclint][source]</sub> |
-| **[OC] French Onion Soup** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/l257ht4fy36a1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/VERT-DER-FERK][source]</sub> |
+| **I will never view sushi the same after having Michelin starred sushi.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/cezcgms92c6a1.jpg" width="550" /> </p>|
 |   |
 
   
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/zmli6s/oc_french_onion_soup/
+[source]: https://reddit.com/r/FoodPorn/comments/znjjw8/i_will_never_view_sushi_the_same_after_having/
 [redditAPI]: https://www.reddit.com/dev/api/
