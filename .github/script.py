@@ -128,7 +128,18 @@ if( len(posts) > 0 ):
     print('********************')
 
     f = open('README.md', 'w')
-    content = f"""### Hey, what's up?
+    content = f"""### Scored well on r/{SUB} recently:
+
+<p align="left"><sub>last updated at: {TODAY.strftime('%d %b %Y at %H:%M:%S')}</sub></p>
+
+|   |
+| --- |
+| <sub>[Posted by: u/{post['author']}][source]</sub> |
+| **{post['title']}** | 
+|<p align="center"> <img alt="image" src="{post['url']}" width="550" /> </p>|
+|   |
+
+### Hey, what's up?
 <img align="right" alt="Pedro's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrosUsername&exclude_repo=HW2&layout=compact" />
 
 I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
@@ -140,17 +151,6 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Java and Typescript
 - **Favorite song:**  
 &nbsp;&nbsp;&nbsp;&nbsp;DEVILNOTCRY — NotEnoughOfYou<br><br>
-
-### Scored well on r/{SUB} recently:
-
-<p align="left"><sub>last updated at: {TODAY.strftime('%d %b %Y at %H:%M:%S')}</sub></p>
-
-|   |
-| --- |
-| <sub>[Posted by: u/{post['author']}][source]</sub> |
-| **{post['title']}** | 
-|<p align="center"> <img alt="image" src="{post['url']}" width="550" /> </p>|
-|   |
 
   
 
