@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 27 Dec 2022 at 15:26:53</sub></p>
+<p align="left"><sub>last updated at: 28 Dec 2022 at 15:27:10</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/zero_ivi][source]</sub> |
-| **This is what happens, when you spend Christmas alone. 4 Burgers for 1 please** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/nttywdzzc48a1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/MrLemon71][source]</sub> |
+| **Lil holiday prime rib action** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/72tcmj6mwi8a1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/zv27mz/this_is_what_happens_when_you_spend_christmas/
+[source]: https://reddit.com/r/FoodPorn/comments/zwm13v/lil_holiday_prime_rib_action/
 [redditAPI]: https://www.reddit.com/dev/api/
