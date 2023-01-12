@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 11 Jan 2023 at 15:45:56</sub></p>
+<p align="left"><sub>last updated at: 12 Jan 2023 at 15:45:24</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/r4dio_c4mbodia][source]</sub> |
-| **I’ve been a pretty adventurous cook for about 15 years, but I’ve recently been trying my hand at baking. Here’s my first attempt at cinnamon rolls.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/dmktph8oe3ba1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/clocopop][source]</sub> |
+| **[OC] Crispy honey garlic chicken and rice** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/5vqexh54kfba1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/107k01f/ive_been_a_pretty_adventurous_cook_for_about_15/
+[source]: https://reddit.com/r/FoodPorn/comments/10919g6/oc_crispy_honey_garlic_chicken_and_rice/
 [redditAPI]: https://www.reddit.com/dev/api/
