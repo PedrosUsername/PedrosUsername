@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 19 Jan 2023 at 15:30:57</sub></p>
+<p align="left"><sub>last updated at: 20 Jan 2023 at 15:29:10</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Wiscback][source]</sub> |
-| **Smoked up some delicious beef short ribs!** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/ihskuy0khrca1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Dani-in-berlin][source]</sub> |
+| **Chipotle BBQ chicken burgers and sweet potato chips** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/jxkow198v0da1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/10ewkfk/smoked_up_some_delicious_beef_short_ribs/
+[source]: https://reddit.com/r/FoodPorn/comments/10fytb7/chipotle_bbq_chicken_burgers_and_sweet_potato/
 [redditAPI]: https://www.reddit.com/dev/api/
