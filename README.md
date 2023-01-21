@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 20 Jan 2023 at 15:29:10</sub></p>
+<p align="left"><sub>last updated at: 21 Jan 2023 at 15:26:04</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Dani-in-berlin][source]</sub> |
-| **Chipotle BBQ chicken burgers and sweet potato chips** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/jxkow198v0da1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/_anika28][source]</sub> |
+| **Vanilla bean panna cotta topped with an orange jelly and plated with a blood orange sauce, satsuma segments and gingerbread - one of the two dishes I made for my final exam at uni!** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/azbrx58be4da1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/10fytb7/chipotle_bbq_chicken_burgers_and_sweet_potato/
+[source]: https://reddit.com/r/FoodPorn/comments/10gfstc/vanilla_bean_panna_cotta_topped_with_an_orange/
 [redditAPI]: https://www.reddit.com/dev/api/
