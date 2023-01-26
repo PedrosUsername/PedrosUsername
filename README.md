@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 25 Jan 2023 at 15:27:47</sub></p>
+<p align="left"><sub>last updated at: 26 Jan 2023 at 15:27:43</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Osaka_Rambling][source]</sub> |
-| **Salmon Avocado Sushi** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/924gbnab6zda1.png" width="550" /> </p>|
+| <sub>[Posted by: u/softrotten][source]</sub> |
+| **Tonight's party dinner is chicken strips (normal, garlic parm, gochujang, buffalo, &amp; bbq) w/ french fries** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/f4vh07i993ea1.png" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/10k36pn/salmon_avocado_sushi/
+[source]: https://reddit.com/r/FoodPorn/comments/10kltk9/tonights_party_dinner_is_chicken_strips_normal/
 [redditAPI]: https://www.reddit.com/dev/api/
