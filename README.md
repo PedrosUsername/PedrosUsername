@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 28 Jan 2023 at 15:26:06</sub></p>
+<p align="left"><sub>last updated at: 29 Jan 2023 at 15:26:01</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/garciasn][source]</sub> |
-| **I just ate a $12, 2lb chimichanga** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/hfjv119gznea1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/SlightMammoth1949][source]</sub> |
+| **Dark chocolate oatmeal pecan cookies - usually found in the oven 20 mins after the kid is in bed.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/kdo4zveb5tea1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/10mqxy4/i_just_ate_a_12_2lb_chimichanga/
+[source]: https://reddit.com/r/FoodPorn/comments/10ncmcz/dark_chocolate_oatmeal_pecan_cookies_usually/
 [redditAPI]: https://www.reddit.com/dev/api/
