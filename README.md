@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 31 Jan 2023 at 15:28:20</sub></p>
+<p align="left"><sub>last updated at: 01 Feb 2023 at 15:28:38</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/allstupidthings][source]</sub> |
-| **Cremia Softserve (made with fresh Hokkaido milk!)** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/13jy8p1602fa1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Toms-Backyard-BBQ][source]</sub> |
+| **Being Australian, lamb is an integral part of our diet.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/4wlsyt59aefa1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/10oc83b/cremia_softserve_made_with_fresh_hokkaido_milk/
+[source]: https://reddit.com/r/FoodPorn/comments/10pvfoy/being_australian_lamb_is_an_integral_part_of_our/
 [redditAPI]: https://www.reddit.com/dev/api/
