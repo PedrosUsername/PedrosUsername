@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 01 Feb 2023 at 15:28:38</sub></p>
+<p align="left"><sub>last updated at: 02 Feb 2023 at 15:28:49</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Toms-Backyard-BBQ][source]</sub> |
-| **Being Australian, lamb is an integral part of our diet.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/4wlsyt59aefa1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/GreeneBean64][source]</sub> |
+| **[OC] 5oz. Filet mignon, 3.75oz lobster tail with melted ghee and lemon wedges, steamed broccoli, mini fondant potatoes, and side salad- $20 for my meal** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/w6dqofml7pfa1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/10pvfoy/being_australian_lamb_is_an_integral_part_of_our/
+[source]: https://reddit.com/r/FoodPorn/comments/10r8zwb/oc_5oz_filet_mignon_375oz_lobster_tail_with/
 [redditAPI]: https://www.reddit.com/dev/api/
