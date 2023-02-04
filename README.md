@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 03 Feb 2023 at 15:28:18</sub></p>
+<p align="left"><sub>last updated at: 04 Feb 2023 at 15:26:07</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/GreeneBean64][source]</sub> |
-| **[OC] 5oz. Filet mignon, 3.75oz lobster tail with melted ghee and lemon wedges, steamed broccoli, mini fondant potatoes, and side salad- $20 for my meal** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/w6dqofml7pfa1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/hushedplayer94][source]</sub> |
+| **[OC] I make Hot Fried chicken, Bread &amp; Butter pickles, and Dorito Mac N'Cheese.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/pcpg2bxk1xfa1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/10r8zwb/oc_5oz_filet_mignon_375oz_lobster_tail_with/
+[source]: https://reddit.com/r/FoodPorn/comments/10s6y6m/oc_i_make_hot_fried_chicken_bread_butter_pickles/
 [redditAPI]: https://www.reddit.com/dev/api/
