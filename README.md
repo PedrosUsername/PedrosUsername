@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 08 Feb 2023 at 15:28:59</sub></p>
+<p align="left"><sub>last updated at: 09 Feb 2023 at 15:29:41</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/GreeneBean64][source]</sub> |
-| **[OC] Personalized portions of stuffed shells for a few close friends** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/bc4ppw67joga1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/BBQMeatTrain][source]</sub> |
+| **Double smash burger deluxe I put on special today** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ajwd1lkzz1ha1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/10vj44e/oc_personalized_portions_of_stuffed_shells_for_a/
+[source]: https://reddit.com/r/FoodPorn/comments/10x7jl2/double_smash_burger_deluxe_i_put_on_special_today/
 [redditAPI]: https://www.reddit.com/dev/api/
