@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 12 Feb 2023 at 15:26:47</sub></p>
+<p align="left"><sub>last updated at: 13 Feb 2023 at 15:29:51</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/UPTH31RONS][source]</sub> |
-| **Not the cleanest plate. Pan seared scallops on Pea Spinach lemon purée with pork belly and butternut squash risotto.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/a5dpt6ol1gha1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/snowcubb][source]</sub> |
+| **First time making beef Wellington.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/t4gqae3cgtha1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/10yyqa5/not_the_cleanest_plate_pan_seared_scallops_on_pea/
+[source]: https://reddit.com/r/FoodPorn/comments/110i37k/first_time_making_beef_wellington/
 [redditAPI]: https://www.reddit.com/dev/api/
