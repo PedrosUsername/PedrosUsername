@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 18 Feb 2023 at 15:27:13</sub></p>
+<p align="left"><sub>last updated at: 19 Feb 2023 at 15:27:00</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Osaka_Rambling][source]</sub> |
-| **Amazing curry platter at my local curry shop** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/6wu3yzl84pia1.png" width="550" /> </p>|
+| <sub>[Posted by: u/madamevanessa98][source]</sub> |
+| **Happened to pass by a donut truck today…I think I made the right choice** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/1ktq8plzc1ja1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -31,5 +31,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/114cz6k/amazing_curry_platter_at_my_local_curry_shop/
+[source]: https://reddit.com/r/FoodPorn/comments/115mgch/happened_to_pass_by_a_donut_truck_todayi_think_i/
 [redditAPI]: https://www.reddit.com/dev/api/
