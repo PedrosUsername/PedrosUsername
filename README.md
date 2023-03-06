@@ -1,16 +1,15 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 05 Mar 2023 at 15:27:01</sub></p>
+<p align="left"><sub>last updated at: 06 Mar 2023 at 15:30:38</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Myfriendgwen][source]</sub> |
-| **Sourdough Grilled Cheese - Chorizo, Chilli and Pickles** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/9ecwzhws5tla1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/BBQMeatTrain][source]</sub> |
+| **Bulgogi burrito with bok choy, rice, and cheese. We call it the "Korrito".** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/yp0k92kx10ma1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
-<img align="right" alt="Pedro's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrosUsername&exclude_repo=HW2&layout=compact" />
 
 I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 
@@ -31,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/11i9emr/sourdough_grilled_cheese_chorizo_chilli_and/
+[source]: https://reddit.com/r/FoodPorn/comments/11j4qg4/bulgogi_burrito_with_bok_choy_rice_and_cheese_we/
 [redditAPI]: https://www.reddit.com/dev/api/
