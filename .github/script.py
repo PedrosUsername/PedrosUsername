@@ -140,7 +140,6 @@ if( len(posts) > 0 ):
 |   |
 
 ### Hey, what's up?
-<img align="right" alt="Pedro's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrosUsername&exclude_repo=HW2&layout=compact" />
 
 I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 
