@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 26 Mar 2023 at 15:24:39</sub></p>
+<p align="left"><sub>last updated at: 27 Mar 2023 at 15:28:40</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/csmit446][source]</sub> |
-| **I trimmed a pineapple around the core and put a whole chicken over it. Smoked it for about 3.5 hours.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/5n7cb60ratpa1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/MyOwnGuitarHero][source]</sub> |
+| **My husband and I like to make donuts together. He fries them, I decorate them :D** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/tfrj14w362qa1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1212mq5/i_trimmed_a_pineapple_around_the_core_and_put_a/
+[source]: https://reddit.com/r/FoodPorn/comments/122bu1p/my_husband_and_i_like_to_make_donuts_together_he/
 [redditAPI]: https://www.reddit.com/dev/api/
