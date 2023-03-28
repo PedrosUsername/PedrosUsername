@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 27 Mar 2023 at 15:28:40</sub></p>
+<p align="left"><sub>last updated at: 28 Mar 2023 at 15:28:37</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/MyOwnGuitarHero][source]</sub> |
-| **My husband and I like to make donuts together. He fries them, I decorate them :D** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/tfrj14w362qa1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/maxlovesgames][source]</sub> |
+| **just look at that pepperoni!** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/9hjircwabbqa1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/122bu1p/my_husband_and_i_like_to_make_donuts_together_he/
+[source]: https://reddit.com/r/FoodPorn/comments/123kukk/just_look_at_that_pepperoni/
 [redditAPI]: https://www.reddit.com/dev/api/
