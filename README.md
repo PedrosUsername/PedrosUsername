@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 22 May 2023 at 15:24:57</sub></p>
+<p align="left"><sub>last updated at: 23 May 2023 at 15:25:42</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Chef_GonZo][source]</sub> |
-| **12hr Szechuan Brisket &amp; Cornbread Sandwich** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/k9z1g37vs31b1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/softrotten][source]</sub> |
+| **Birthday dinner. Birria quesa tacos, elote corn salad (esquites), and coffee brownie cheesecake** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/032zydqifh1b1.png" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/13nb2jw/12hr_szechuan_brisket_cornbread_sandwich/
+[source]: https://reddit.com/r/FoodPorn/comments/13p9rfn/birthday_dinner_birria_quesa_tacos_elote_corn/
 [redditAPI]: https://www.reddit.com/dev/api/
