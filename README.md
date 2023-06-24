@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 23 Jun 2023 at 15:27:58</sub></p>
+<p align="left"><sub>last updated at: 24 Jun 2023 at 15:26:53</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/bethanyetoi][source]</sub> |
-| **Cantaloupe and mozzarella pearl "salad" with crispy prosciutto and lavender honey almond crumble** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/t6f9ulcec27b1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/aminorman][source]</sub> |
+| **Buttermilk Biscuits with Hot Sausage Gravy and Four Soft Scrambled Eggs** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/eqhvjcoydr7b1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/14dv21p/cantaloupe_and_mozzarella_pearl_salad_with_crispy/
+[source]: https://reddit.com/r/FoodPorn/comments/14gwyr1/buttermilk_biscuits_with_hot_sausage_gravy_and/
 [redditAPI]: https://www.reddit.com/dev/api/
