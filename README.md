@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 30 Jun 2023 at 15:26:46</sub></p>
+<p align="left"><sub>last updated at: 01 Jul 2023 at 15:25:45</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Rammskie][source]</sub> |
-| **My mom is getting married tomorrow. So i made her a wedding cake!** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/tgh6t0br559b1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/softrotten][source]</sub> |
+| **Salami, pepperoni, ham, provolone, pepperoncini, pesto sliders topped w/ garlic butter** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/1q5avmlm5u8b1.png" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/14mxw5o/my_mom_is_getting_married_tomorrow_so_i_made_her/
+[source]: https://reddit.com/r/FoodPorn/comments/14lnfo0/salami_pepperoni_ham_provolone_pepperoncini_pesto/
 [redditAPI]: https://www.reddit.com/dev/api/
