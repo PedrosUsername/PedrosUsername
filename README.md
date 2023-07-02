@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 01 Jul 2023 at 15:25:45</sub></p>
+<p align="left"><sub>last updated at: 02 Jul 2023 at 15:25:25</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/softrotten][source]</sub> |
-| **Salami, pepperoni, ham, provolone, pepperoncini, pesto sliders topped w/ garlic butter** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/1q5avmlm5u8b1.png" width="550" /> </p>|
+| <sub>[Posted by: u/AstutePauciloquent][source]</sub> |
+| **Homemade chicken chow mein (Learning to use my wok)** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/swath7492c9b1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/14lnfo0/salami_pepperoni_ham_provolone_pepperoncini_pesto/
+[source]: https://reddit.com/r/FoodPorn/comments/14ns36x/homemade_chicken_chow_mein_learning_to_use_my_wok/
 [redditAPI]: https://www.reddit.com/dev/api/
