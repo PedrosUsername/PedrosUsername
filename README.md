@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 06 Jul 2023 at 15:29:14</sub></p>
+<p align="left"><sub>last updated at: 07 Jul 2023 at 15:27:52</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Dani-in-berlin][source]</sub> |
-| **Rib-eye cooked medium rare, bone-marrow hasselback potatoes, air fried garlic parmesan brussel sprouts, thyme and sage mushrooms, and blue-cheese sauce [homemade]** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/nt4980os4t9b1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/chikara27][source]</sub> |
+| **Sourdoughbaguette** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/vhl2s65655ab1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/14pte69/ribeye_cooked_medium_rare_bonemarrow_hasselback/
+[source]: https://reddit.com/r/FoodPorn/comments/14r9etr/sourdoughbaguette/
 [redditAPI]: https://www.reddit.com/dev/api/
