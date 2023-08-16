@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 15 Aug 2023 at 15:22:33</sub></p>
+<p align="left"><sub>last updated at: 16 Aug 2023 at 15:24:08</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/astros_world77][source]</sub> |
-| **White peach cake from a local dessert shop** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/n0op3ll03xhb1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/cirinalynn][source]</sub> |
+| **[OC] My husband and I are learning to make sushi, and this was 8 of our rolls. Any tips or suggestions so far?** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/5na108ssz8ib1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/15q5mpy/white_peach_cake_from_a_local_dessert_shop/
+[source]: https://reddit.com/r/FoodPorn/comments/15rodos/oc_my_husband_and_i_are_learning_to_make_sushi/
 [redditAPI]: https://www.reddit.com/dev/api/
