@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 18 Aug 2023 at 15:23:15</sub></p>
+<p align="left"><sub>last updated at: 19 Aug 2023 at 15:22:13</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/cirinalynn][source]</sub> |
-| **[OC] My husband and I are learning to make sushi, and this was 8 of our rolls. Any tips or suggestions so far?** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/5na108ssz8ib1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Dunmer_Sanders][source]</sub> |
+| **Best Lobster Roll I’ve Had** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/06wcb2nu5xib1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/15rodos/oc_my_husband_and_i_are_learning_to_make_sushi/
+[source]: https://reddit.com/r/FoodPorn/comments/15utnxu/best_lobster_roll_ive_had/
 [redditAPI]: https://www.reddit.com/dev/api/
