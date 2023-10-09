@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 08 Oct 2023 at 15:22:44</sub></p>
+<p align="left"><sub>last updated at: 09 Oct 2023 at 15:26:00</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/modern_julius][source]</sub> |
-| **[homemade] mozzarella sticks** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/dbo1vmdo7jsb1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/mienczaczek][source]</sub> |
+| **Traditional Beef Bourguignon** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/2ceuoiopvssb1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1715qzb/homemade_mozzarella_sticks/
+[source]: https://reddit.com/r/FoodPorn/comments/1729a6b/traditional_beef_bourguignon/
 [redditAPI]: https://www.reddit.com/dev/api/
