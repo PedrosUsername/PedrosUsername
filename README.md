@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 19 Oct 2023 at 15:25:13</sub></p>
+<p align="left"><sub>last updated at: 20 Oct 2023 at 15:23:44</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/bringmeturtles][source]</sub> |
-| **Instead of cake, I asked for donuts.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/9ohdz3vgklub1.png" width="550" /> </p>|
+| <sub>[Posted by: u/SwiftStick][source]</sub> |
+| **I’m sick, so it’s chicken soup tonight.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/hnmb0ouqr1vb1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/179b4f9/instead_of_cake_i_asked_for_donuts/
+[source]: https://reddit.com/r/FoodPorn/comments/17b4w32/im_sick_so_its_chicken_soup_tonight/
 [redditAPI]: https://www.reddit.com/dev/api/
