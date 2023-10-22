@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 21 Oct 2023 at 15:22:23</sub></p>
+<p align="left"><sub>last updated at: 22 Oct 2023 at 15:23:52</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/SwiftStick][source]</sub> |
-| **I’m sick, so it’s chicken soup tonight.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/hnmb0ouqr1vb1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/Artlistra][source]</sub> |
+| **Homemade meatball sub with garlic and parmesan fries** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/bwrsmyvec7vb1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/17b4w32/im_sick_so_its_chicken_soup_tonight/
+[source]: https://reddit.com/r/FoodPorn/comments/17bpw0p/homemade_meatball_sub_with_garlic_and_parmesan/
 [redditAPI]: https://www.reddit.com/dev/api/
