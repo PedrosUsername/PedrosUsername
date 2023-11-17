@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 16 Nov 2023 at 15:25:59</sub></p>
+<p align="left"><sub>last updated at: 17 Nov 2023 at 15:25:38</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Chewbock][source]</sub> |
-| **It was time to make my world famous (according to my family) pumpkin pies** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/62xhwmhg900c1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/slypretender][source]</sub> |
+| **I made biscuits and gravy!** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/sbcwby6lts0c1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/17txl3e/it_was_time_to_make_my_world_famous_according_to/
+[source]: https://reddit.com/r/FoodPorn/comments/17x1if7/i_made_biscuits_and_gravy/
 [redditAPI]: https://www.reddit.com/dev/api/
