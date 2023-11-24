@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 23 Nov 2023 at 15:25:24</sub></p>
+<p align="left"><sub>last updated at: 24 Nov 2023 at 15:25:01</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/LetMeSqueezeYourSoul][source]</sub> |
-| **Fruit tarts for Thanksgiving** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/rumaolbjcl1c1.jpg" width="550" /> </p>|
+| <sub>[Posted by: u/lolzomghahaha][source]</sub> |
+| **[Homemade] Spaghetti Bolognese.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/fxbbws8mds1c1.jpg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/18033eb/fruit_tarts_for_thanksgiving/
+[source]: https://reddit.com/r/FoodPorn/comments/180uyyb/homemade_spaghetti_bolognese/
 [redditAPI]: https://www.reddit.com/dev/api/
