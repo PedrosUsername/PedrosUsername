@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 12 Jan 2024 at 15:25:07</sub></p>
+<p align="left"><sub>last updated at: 13 Jan 2024 at 15:23:52</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/dinosaur_0987][source]</sub> |
-| **My homemade croissants!** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/0a68wdhsstbc1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/pimentocheeze_][source]</sub> |
+| **Scallops seared in duck fat and saffron risotto** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/3d7fra5c14cc1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1943q55/my_homemade_croissants/
+[source]: https://reddit.com/r/FoodPorn/comments/195bve8/scallops_seared_in_duck_fat_and_saffron_risotto/
 [redditAPI]: https://www.reddit.com/dev/api/
