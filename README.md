@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 14 Jan 2024 at 15:24:08</sub></p>
+<p align="left"><sub>last updated at: 15 Jan 2024 at 15:25:50</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/pimentocheeze_][source]</sub> |
-| **Scallops seared in duck fat and saffron risotto** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/3d7fra5c14cc1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Theologicalbuffer][source]</sub> |
+| **Smoked Chicken Carbonara** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/lki8xnfzf8cc1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/195bve8/scallops_seared_in_duck_fat_and_saffron_risotto/
+[source]: https://reddit.com/r/FoodPorn/comments/195rjb6/smoked_chicken_carbonara/
 [redditAPI]: https://www.reddit.com/dev/api/
