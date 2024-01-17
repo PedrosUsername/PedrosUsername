@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 16 Jan 2024 at 15:26:05</sub></p>
+<p align="left"><sub>last updated at: 17 Jan 2024 at 15:25:54</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Nikkro][source]</sub> |
-| **Beef rice bowl [OC]** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/ufeukahf9occ1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/aminorman][source]</sub> |
+| **Beef Birria and Consommé** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/908nb098pscc1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/197kiwh/beef_rice_bowl_oc/
+[source]: https://reddit.com/r/FoodPorn/comments/1981q8g/beef_birria_and_consommé/
 [redditAPI]: https://www.reddit.com/dev/api/
