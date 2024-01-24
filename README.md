@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 23 Jan 2024 at 15:26:23</sub></p>
+<p align="left"><sub>last updated at: 24 Jan 2024 at 15:27:13</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/CheFadiFOOD][source]</sub> |
-| **Long-cooked lamb shank, marinated in beer and honey for three days** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/s9d9fhp2h1ec1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/DamnShaneIsThatU][source]</sub> |
+| **Detroit-style pizza [OC]** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/aosiyc5pv7ec1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/19d3a2h/longcooked_lamb_shank_marinated_in_beer_and_honey/
+[source]: https://reddit.com/r/FoodPorn/comments/19dseyh/detroitstyle_pizza_oc/
 [redditAPI]: https://www.reddit.com/dev/api/
