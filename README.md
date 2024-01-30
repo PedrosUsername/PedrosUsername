@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 29 Jan 2024 at 15:23:18</sub></p>
+<p align="left"><sub>last updated at: 30 Jan 2024 at 15:24:49</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/opeebank][source]</sub> |
-| **Beef and Broccoli!** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/vd98ftifvvec1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Beast667Neighbour][source]</sub> |
+| **Lunch at IKEA. Tried their meatballs for the first time.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ydlwzm5wbefc1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1abyk9y/beef_and_broccoli/
+[source]: https://reddit.com/r/FoodPorn/comments/1adxoov/lunch_at_ikea_tried_their_meatballs_for_the_first/
 [redditAPI]: https://www.reddit.com/dev/api/
