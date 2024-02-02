@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 01 Feb 2024 at 15:24:21</sub></p>
+<p align="left"><sub>last updated at: 02 Feb 2024 at 15:23:44</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Beast667Neighbour][source]</sub> |
-| **Lunch at IKEA. Tried their meatballs for the first time.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/ydlwzm5wbefc1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/RoniNoone][source]</sub> |
+| **Hosted a dinner party this weekend, this was my main... Seared Scallops over Bacon and Butternut Risotto with Crispy Sage** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/cf6egko5bafc1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1adxoov/lunch_at_ikea_tried_their_meatballs_for_the_first/
+[source]: https://reddit.com/r/FoodPorn/comments/1adjdy7/hosted_a_dinner_party_this_weekend_this_was_my/
 [redditAPI]: https://www.reddit.com/dev/api/
