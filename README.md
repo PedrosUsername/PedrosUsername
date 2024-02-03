@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 02 Feb 2024 at 15:23:44</sub></p>
+<p align="left"><sub>last updated at: 03 Feb 2024 at 15:22:22</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/RoniNoone][source]</sub> |
-| **Hosted a dinner party this weekend, this was my main... Seared Scallops over Bacon and Butternut Risotto with Crispy Sage** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/cf6egko5bafc1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/stonedjackballler][source]</sub> |
+| **[oc] went out to dinner last night for sushi seared tuna with foie gras** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/rf68pgre67gc1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1adjdy7/hosted_a_dinner_party_this_weekend_this_was_my/
+[source]: https://reddit.com/r/FoodPorn/comments/1ah7gdd/oc_went_out_to_dinner_last_night_for_sushi_seared/
 [redditAPI]: https://www.reddit.com/dev/api/
