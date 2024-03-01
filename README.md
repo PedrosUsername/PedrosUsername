@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 29 Feb 2024 at 15:24:12</sub></p>
+<p align="left"><sub>last updated at: 01 Mar 2024 at 15:25:31</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/OldLebaneseNerd][source]</sub> |
-| **first time having some mexican food, these fried corn wedges were super interesting.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/muvfwvjo27lc1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/MrGodless][source]</sub> |
+| **I ate pan seared Kangaroo.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/0jjaar7j5jlc1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1b1ncph/first_time_having_some_mexican_food_these_fried/
+[source]: https://reddit.com/r/FoodPorn/comments/1b30v6u/i_ate_pan_seared_kangaroo/
 [redditAPI]: https://www.reddit.com/dev/api/
