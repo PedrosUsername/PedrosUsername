@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 02 Mar 2024 at 15:21:59</sub></p>
+<p align="left"><sub>last updated at: 03 Mar 2024 at 15:23:18</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/MrGodless][source]</sub> |
-| **I ate pan seared Kangaroo.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/0jjaar7j5jlc1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/slypretender][source]</sub> |
+| **I made Korean Army Stew** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/rk66dkfm5ylc1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1b30v6u/i_ate_pan_seared_kangaroo/
+[source]: https://reddit.com/r/FoodPorn/comments/1b4s1l5/i_made_korean_army_stew/
 [redditAPI]: https://www.reddit.com/dev/api/
