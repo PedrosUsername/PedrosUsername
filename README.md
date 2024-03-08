@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 07 Mar 2024 at 15:23:28</sub></p>
+<p align="left"><sub>last updated at: 08 Mar 2024 at 15:24:18</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/slypretender][source]</sub> |
-| **I made Korean Army Stew** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/rk66dkfm5ylc1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/son_of_a_feesh][source]</sub> |
+| **Homemade country fried steak with bacon gravy.  [OC]** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/jcr8i9xhlkmc1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1b4s1l5/i_made_korean_army_stew/
+[source]: https://reddit.com/r/FoodPorn/comments/1b7enxj/homemade_country_fried_steak_with_bacon_gravy_oc/
 [redditAPI]: https://www.reddit.com/dev/api/
