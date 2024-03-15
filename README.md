@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 14 Mar 2024 at 15:24:19</sub></p>
+<p align="left"><sub>last updated at: 15 Mar 2024 at 15:23:22</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/mitch-mma][source]</sub> |
-| **Deepfried crispy cod fish ** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/sbi6ezghewmc1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Artlistra][source]</sub> |
+| **Roast Chicken dinner** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/oo898te085oc1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1b8sglg/deepfried_crispy_cod_fish/
+[source]: https://reddit.com/r/FoodPorn/comments/1bdyij7/roast_chicken_dinner/
 [redditAPI]: https://www.reddit.com/dev/api/
