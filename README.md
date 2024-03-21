@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 20 Mar 2024 at 15:25:28</sub></p>
+<p align="left"><sub>last updated at: 21 Mar 2024 at 15:24:33</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Artlistra][source]</sub> |
-| **Roast Chicken dinner** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/oo898te085oc1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/dillikasunnyyt][source]</sub> |
+| **Homemade Korean Fried Chicken ** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ki1t0zhxfjoc1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1bdyij7/roast_chicken_dinner/
+[source]: https://reddit.com/r/FoodPorn/comments/1bfkbhs/homemade_korean_fried_chicken/
 [redditAPI]: https://www.reddit.com/dev/api/
