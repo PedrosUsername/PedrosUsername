@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 07 Apr 2024 at 15:23:48</sub></p>
+<p align="left"><sub>last updated at: 08 Apr 2024 at 15:23:32</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/DamnShaneIsThatU][source]</sub> |
-| **Homemade mini Detroit style pizzas** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/wismpu6dxprc1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Venicci87][source]</sub> |
+| **Hasselback potatoes** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ne54qoqzlxsc1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1bsi3m6/homemade_mini_detroit_style_pizzas/
+[source]: https://reddit.com/r/FoodPorn/comments/1bxnjl5/hasselback_potatoes/
 [redditAPI]: https://www.reddit.com/dev/api/
