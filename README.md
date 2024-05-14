@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 13 May 2024 at 15:26:22</sub></p>
+<p align="left"><sub>last updated at: 14 May 2024 at 15:28:53</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/SuperInevitable8465][source]</sub> |
-| **Chicken Ramen** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/5ks4lftxgdzc1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/discordianofslack][source]</sub> |
+| **Smoked brisket and cheese empanadas for my kids school staff.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/w036n0rhc20d1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1cntbbj/chicken_ramen/
+[source]: https://reddit.com/r/FoodPorn/comments/1cqihzg/smoked_brisket_and_cheese_empanadas_for_my_kids/
 [redditAPI]: https://www.reddit.com/dev/api/
