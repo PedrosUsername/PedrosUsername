@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 14 May 2024 at 15:28:53</sub></p>
+<p align="left"><sub>last updated at: 15 May 2024 at 15:25:04</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/discordianofslack][source]</sub> |
-| **Smoked brisket and cheese empanadas for my kids school staff.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/w036n0rhc20d1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/StringFartet][source]</sub> |
+| **Beef Nachos** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/njch1cnsqa0d1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1cqihzg/smoked_brisket_and_cheese_empanadas_for_my_kids/
+[source]: https://reddit.com/r/FoodPorn/comments/1crggv7/beef_nachos/
 [redditAPI]: https://www.reddit.com/dev/api/
