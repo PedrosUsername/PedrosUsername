@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 16 May 2024 at 15:25:42</sub></p>
+<p align="left"><sub>last updated at: 17 May 2024 at 15:26:08</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/StringFartet][source]</sub> |
-| **Beef Nachos** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/njch1cnsqa0d1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Notorious2again][source]</sub> |
+| **My wife made red beans and rice. ** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/tr8fj9iu2w0d1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1crggv7/beef_nachos/
+[source]: https://reddit.com/r/FoodPorn/comments/1cttd9l/my_wife_made_red_beans_and_rice/
 [redditAPI]: https://www.reddit.com/dev/api/
