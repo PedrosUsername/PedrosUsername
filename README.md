@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 19 Jun 2024 at 15:27:18</sub></p>
+<p align="left"><sub>last updated at: 20 Jun 2024 at 15:27:51</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/matthewsupreme][source]</sub> |
-| **I made my wife birria for her birthday.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/xdbhlpw5kl6d1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Connorbmor04][source]</sub> |
+| **Steak and eggs with hashbrowns** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ke9emaqu7f7d1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1dg0fu6/i_made_my_wife_birria_for_her_birthday/
+[source]: https://reddit.com/r/FoodPorn/comments/1dj5ow7/steak_and_eggs_with_hashbrowns/
 [redditAPI]: https://www.reddit.com/dev/api/
