@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 30 Jun 2024 at 15:26:28</sub></p>
+<p align="left"><sub>last updated at: 01 Jul 2024 at 15:27:20</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/majorjayzer][source]</sub> |
-| **Brats and Pasta Salad by the campfire ** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/wtu8kfiwqt8d1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/dadams8019][source]</sub> |
+| **Grilled Octopus ** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/0o8ijp1pxq9d1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1doncgf/brats_and_pasta_salad_by_the_campfire/
+[source]: https://reddit.com/r/FoodPorn/comments/1ds7217/grilled_octopus/
 [redditAPI]: https://www.reddit.com/dev/api/
