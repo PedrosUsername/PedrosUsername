@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 02 Jul 2024 at 15:25:17</sub></p>
+<p align="left"><sub>last updated at: 03 Jul 2024 at 15:27:22</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/dadams8019][source]</sub> |
-| **Grilled Octopus ** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/0o8ijp1pxq9d1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/ProjectA-ko][source]</sub> |
+| **Homemade surf and turf with blue cheese pepper sauce on buttered asparagus.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ldo0cy4tpz9d1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1ds7217/grilled_octopus/
+[source]: https://reddit.com/r/FoodPorn/comments/1dt73vn/homemade_surf_and_turf_with_blue_cheese_pepper/
 [redditAPI]: https://www.reddit.com/dev/api/
