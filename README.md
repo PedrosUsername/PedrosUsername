@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 09 Jul 2024 at 15:27:07</sub></p>
+<p align="left"><sub>last updated at: 10 Jul 2024 at 15:28:04</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/ProjectA-ko][source]</sub> |
-| **Homemade surf and turf with blue cheese pepper sauce on buttered asparagus.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/ldo0cy4tpz9d1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Samwisegam01][source]</sub> |
+| **Japanese Curry** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/j1c7w1b1zibd1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1dt73vn/homemade_surf_and_turf_with_blue_cheese_pepper/
+[source]: https://reddit.com/r/FoodPorn/comments/1dz7pc2/japanese_curry/
 [redditAPI]: https://www.reddit.com/dev/api/
