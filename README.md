@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 24 Aug 2024 at 15:26:56</sub></p>
+<p align="left"><sub>last updated at: 25 Aug 2024 at 15:26:48</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/TallGreg_Art][source]</sub> |
-| **My Oil Painting of Blueberry Pie** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/b3shsyzj1gkd1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/chashaoballs][source]</sub> |
+| **[OC] Steak &amp; lobster mac** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/4qpkx1mfenkd1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1ezhpja/my_oil_painting_of_blueberry_pie/
+[source]: https://reddit.com/r/FoodPorn/comments/1f0axd1/oc_steak_lobster_mac/
 [redditAPI]: https://www.reddit.com/dev/api/
