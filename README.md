@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 01 Oct 2024 at 15:30:51</sub></p>
+<p align="left"><sub>last updated at: 02 Oct 2024 at 15:31:23</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/InevitableLow7976][source]</sub> |
-| **I made coconut shrimp curry ** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/llys86asrlrd1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/ProjectA-ko][source]</sub> |
+| **[homemade] Blackened shrimp Alfredo with lump crab meat. ** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/eyk425ammsrd1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1frma8i/i_made_coconut_shrimp_curry/
+[source]: https://reddit.com/r/FoodPorn/comments/1fsbfaz/homemade_blackened_shrimp_alfredo_with_lump_crab/
 [redditAPI]: https://www.reddit.com/dev/api/
