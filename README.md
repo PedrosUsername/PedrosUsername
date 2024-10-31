@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 30 Oct 2024 at 15:31:19</sub></p>
+<p align="left"><sub>last updated at: 31 Oct 2024 at 15:31:17</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/mienczaczek][source]</sub> |
-| **[OC] Beef Bourguignon Dinner** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/jno2j374wwvd1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Paulie_saucee][source]</sub> |
+| **Pull Apart Garlic Bread ** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/57ogy2t3zaxd1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1g7yitg/oc_beef_bourguignon_dinner/
+[source]: https://reddit.com/r/FoodPorn/comments/1gdb99w/pull_apart_garlic_bread/
 [redditAPI]: https://www.reddit.com/dev/api/
