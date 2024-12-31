@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 30 Dec 2024 at 15:28:52</sub></p>
+<p align="left"><sub>last updated at: 31 Dec 2024 at 15:28:08</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/TheRealSpaceTrout][source]</sub> |
-| **Charcuterie board my SO made for an event.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/vdmj7d0yv27e1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/AStrangerWCandy][source]</sub> |
+| **[OC] Chinese Salt &amp; Pepper Pork Chops** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/63f3x6gipw7e1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1hf2ixg/charcuterie_board_my_so_made_for_an_event/
+[source]: https://reddit.com/r/FoodPorn/comments/1hi8nvh/oc_chinese_salt_pepper_pork_chops/
 [redditAPI]: https://www.reddit.com/dev/api/
