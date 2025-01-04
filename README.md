@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 03 Jan 2025 at 15:29:07</sub></p>
+<p align="left"><sub>last updated at: 04 Jan 2025 at 15:27:45</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/80Baby203][source]</sub> |
-| **Linguine with scallops in a garlic herb sauce by me** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/nesvwltgy29e1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/chashaoballs][source]</sub> |
+| **Cabbage dumplings** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/fthf2b1f9tae1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1hmbr3v/linguine_with_scallops_in_a_garlic_herb_sauce_by/
+[source]: https://reddit.com/r/FoodPorn/comments/1hsrak2/cabbage_dumplings/
 [redditAPI]: https://www.reddit.com/dev/api/
