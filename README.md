@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 04 Jan 2025 at 15:27:45</sub></p>
+<p align="left"><sub>last updated at: 05 Jan 2025 at 15:27:08</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/chashaoballs][source]</sub> |
-| **Cabbage dumplings** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/fthf2b1f9tae1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Whiterabbit2000][source]</sub> |
+| **Home-Made Gnocchi** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/hmw6zx26j0be1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1hsrak2/cabbage_dumplings/
+[source]: https://reddit.com/r/FoodPorn/comments/1htjjza/homemade_gnocchi/
 [redditAPI]: https://www.reddit.com/dev/api/
