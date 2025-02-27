@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 26 Feb 2025 at 15:32:20</sub></p>
+<p align="left"><sub>last updated at: 27 Feb 2025 at 15:31:56</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/UnthunkTheGlunk][source]</sub> |
-| **Woven Samosas** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/ppax8ccbubie1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Paulie_saucee][source]</sub> |
+| **Lemon &amp; Herb Roasted Chicken** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/0ek54ogvlpje1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1im85xx/woven_samosas/
+[source]: https://reddit.com/r/FoodPorn/comments/1irl13p/lemon_herb_roasted_chicken/
 [redditAPI]: https://www.reddit.com/dev/api/
