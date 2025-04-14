@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 13 Apr 2025 at 15:30:43</sub></p>
+<p align="left"><sub>last updated at: 14 Apr 2025 at 15:32:14</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Whiterabbit2000][source]</sub> |
-| **Blueberry Cheesecake** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/q7dks6ooqfre1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/mienczaczek][source]</sub> |
+| **Classic Polish Baked Cheesecake (Sernik)** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/zx7qjr0izsre1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1jlvig1/blueberry_cheesecake/
+[source]: https://reddit.com/r/FoodPorn/comments/1jn9i53/classic_polish_baked_cheesecake_sernik/
 [redditAPI]: https://www.reddit.com/dev/api/
