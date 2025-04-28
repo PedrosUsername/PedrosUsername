@@ -145,7 +145,7 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 
 ### More about me
 - **Currently working on:**  
-&nbsp;&nbsp;&nbsp;&nbsp;My internship
+&nbsp;&nbsp;&nbsp;&nbsp;Personal goals
 - **Currently learning:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Java and Typescript
 - **Favorite song:**  
