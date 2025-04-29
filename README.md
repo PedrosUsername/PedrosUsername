@@ -1,6 +1,6 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 28 Apr 2025 at 15:33:15</sub></p>
+<p align="left"><sub>last updated at: 29 Apr 2025 at 15:33:14</sub></p>
 
 |   |
 | --- |
@@ -15,7 +15,7 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
 
 ### More about me
 - **Currently working on:**  
-&nbsp;&nbsp;&nbsp;&nbsp;My internship
+&nbsp;&nbsp;&nbsp;&nbsp;Personal goals
 - **Currently learning:**  
 &nbsp;&nbsp;&nbsp;&nbsp;Java and Typescript
 - **Favorite song:**  
