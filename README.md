@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 10 May 2025 at 15:29:58</sub></p>
+<p align="left"><sub>last updated at: 11 May 2025 at 15:30:24</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Ok-Celery9890][source]</sub> |
-| **The Filipino platter I made for work!** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/pm9wuve7guwe1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Ok_Zombie_8354][source]</sub> |
+| **Perfect pan seared scallops** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/fehr4kxq4uxe1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1k72rek/the_filipino_platter_i_made_for_work/
+[source]: https://reddit.com/r/FoodPorn/comments/1kayac7/perfect_pan_seared_scallops/
 [redditAPI]: https://www.reddit.com/dev/api/
