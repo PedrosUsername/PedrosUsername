@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 26 May 2025 at 15:32:54</sub></p>
+<p align="left"><sub>last updated at: 27 May 2025 at 15:34:25</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/ianjmcg][source]</sub> |
-| **Birria Quesatacos** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/qu8sq386w5ze1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Paulie_saucee][source]</sub> |
+| **Fried Shrimp** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/qnbz3h6x1k1f1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1kg47a8/birria_quesatacos/
+[source]: https://reddit.com/r/FoodPorn/comments/1kplzes/fried_shrimp/
 [redditAPI]: https://www.reddit.com/dev/api/
