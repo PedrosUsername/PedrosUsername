@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 06 Jun 2025 at 15:32:09</sub></p>
+<p align="left"><sub>last updated at: 07 Jun 2025 at 15:31:06</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Paulie_saucee][source]</sub> |
-| **Fried Shrimp** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/qnbz3h6x1k1f1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/ProjectA-ko][source]</sub> |
+| **[homemade] steak, shrimp and seasoned fries** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/pe71b1sldt1f1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1kplzes/fried_shrimp/
+[source]: https://reddit.com/r/FoodPorn/comments/1kqp21q/homemade_steak_shrimp_and_seasoned_fries/
 [redditAPI]: https://www.reddit.com/dev/api/
