@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 24 Aug 2025 at 15:29:28</sub></p>
+<p align="left"><sub>last updated at: 25 Aug 2025 at 15:33:46</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/SAPPER00][source]</sub> |
-| **My first attempt at chicken katsu ramen.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/k8nq2bqiiukf1.png" width="550" /> </p>|
+| <sub>[Posted by: u/AStrangerWCandy][source]</sub> |
+| **[OC] Nephew Asked for a Chuck E Cheese Style Confetti Cake for his Birthday, I think I nailed it** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/hlafje15a0lf1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1myf2c5/my_first_attempt_at_chicken_katsu_ramen/
+[source]: https://reddit.com/r/FoodPorn/comments/1mz2hof/oc_nephew_asked_for_a_chuck_e_cheese_style/
 [redditAPI]: https://www.reddit.com/dev/api/
