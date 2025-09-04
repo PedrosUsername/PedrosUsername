@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 03 Sep 2025 at 15:31:44</sub></p>
+<p align="left"><sub>last updated at: 04 Sep 2025 at 15:31:19</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Wheretuh][source]</sub> |
-| **Loaded potato soup** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/f7tf38wbdnmf1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/th1s_nam3_is_tak3n][source]</sub> |
+| **Steak and Mac, anyone?** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/quh4299i82nf1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1n65k7g/loaded_potato_soup/
+[source]: https://reddit.com/r/FoodPorn/comments/1n7yi4a/steak_and_mac_anyone/
 [redditAPI]: https://www.reddit.com/dev/api/
