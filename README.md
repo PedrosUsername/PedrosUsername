@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 28 Sep 2025 at 15:27:12</sub></p>
+<p align="left"><sub>last updated at: 29 Sep 2025 at 15:31:22</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/lonesomejohnnie][source]</sub> |
-| **Hand pulled noodles** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/g443f3e0bdrf1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/bennetbjornk][source]</sub> |
+| **Duck Breast with Garlic Confit Risotto** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/3mlcby488xrf1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1nqh49a/hand_pulled_noodles/
+[source]: https://reddit.com/r/FoodPorn/comments/1nsqo7f/duck_breast_with_garlic_confit_risotto/
 [redditAPI]: https://www.reddit.com/dev/api/
