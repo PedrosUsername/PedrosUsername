@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 26 Nov 2025 at 15:33:36</sub></p>
+<p align="left"><sub>last updated at: 27 Nov 2025 at 15:33:14</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/hoeface_killah][source]</sub> |
-| **I think I make the best Nashville hot tenders in the world** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/cfza4sg3ic0g1.png" width="550" /> </p>|
+| <sub>[Posted by: u/bigbabyjesus76][source]</sub> |
+| **Smoked Gouda and Mobay Mac and Cheese** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/dt7jud2fqp1g1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1ot2tei/i_think_i_make_the_best_nashville_hot_tenders_in/
+[source]: https://reddit.com/r/FoodPorn/comments/1oz24ej/smoked_gouda_and_mobay_mac_and_cheese/
 [redditAPI]: https://www.reddit.com/dev/api/
