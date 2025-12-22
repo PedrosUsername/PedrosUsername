@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 21 Dec 2025 at 15:30:57</sub></p>
+<p align="left"><sub>last updated at: 22 Dec 2025 at 15:35:11</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Electrical-Twist2254][source]</sub> |
-| **I made dumplings** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/xlhneyt7r34g1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/cookingboy][source]</sub> |
+| **Ice cream from a Japanese cafe** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/6kglcbplyo7g1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1p9cjnd/i_made_dumplings/
+[source]: https://reddit.com/r/FoodPorn/comments/1ponarx/ice_cream_from_a_japanese_cafe/
 [redditAPI]: https://www.reddit.com/dev/api/
