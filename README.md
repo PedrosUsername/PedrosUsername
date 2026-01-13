@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 29 Dec 2025 at 15:36:15</sub></p>
+<p align="left"><sub>last updated at: 13 Jan 2026 at 15:43:02</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/cookingboy][source]</sub> |
-| **Ice cream from a Japanese cafe** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/6kglcbplyo7g1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/NerdsWithKnives][source]</sub> |
+| **Pistachio Cream-Stuffed Brown Butter Chocolate Chip Cookies** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/c7p541jz7zbg1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1ponarx/ice_cream_from_a_japanese_cafe/
+[source]: https://reddit.com/r/FoodPorn/comments/1q6on9g/pistachio_creamstuffed_brown_butter_chocolate/
 [redditAPI]: https://www.reddit.com/dev/api/
