@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 22 Jan 2026 at 15:47:20</sub></p>
+<p align="left"><sub>last updated at: 23 Jan 2026 at 15:42:13</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Chaddcl0ps][source]</sub> |
-| **[OC] Cheesesteaks, sharp provolone and whiz wit, poblanos, Calabrian chilies on a Publix deli white sub roll** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/z0tpv6cvt5dg1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/mitch-mma][source]</sub> |
+| **Deep fried fish filet** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/bat05093zveg1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1qbz836/oc_cheesesteaks_sharp_provolone_and_whiz_wit/
+[source]: https://reddit.com/r/FoodPorn/comments/1qjs468/deep_fried_fish_filet/
 [redditAPI]: https://www.reddit.com/dev/api/
