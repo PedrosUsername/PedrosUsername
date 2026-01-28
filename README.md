@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 27 Jan 2026 at 15:44:31</sub></p>
+<p align="left"><sub>last updated at: 28 Jan 2026 at 15:50:30</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/RareHead9705][source]</sub> |
-| **Homemade beef burger and tater tots 🤤😍** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/crik4sujp8fg1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/mitch-mma][source]</sub> |
+| **Deep fried fish filet** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/bat05093zveg1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1qlffxh/homemade_beef_burger_and_tater_tots/
+[source]: https://reddit.com/r/FoodPorn/comments/1qjs468/deep_fried_fish_filet/
 [redditAPI]: https://www.reddit.com/dev/api/
