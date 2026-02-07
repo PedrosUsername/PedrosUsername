@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 06 Feb 2026 at 15:57:39</sub></p>
+<p align="left"><sub>last updated at: 07 Feb 2026 at 15:42:08</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/cookingboy][source]</sub> |
-| **Mini Shenjianbao (pan fried soup dumpling) from Shanghai [OC]** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/5y9v2diugqeg1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Farihaishere][source]</sub> |
+| **I made Chicken Pakora with Green Chutney on my father's birthday.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/lmztq5t80ofg1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1qj3dfn/mini_shenjianbao_pan_fried_soup_dumpling_from/
+[source]: https://reddit.com/r/FoodPorn/comments/1qnbrae/i_made_chicken_pakora_with_green_chutney_on_my/
 [redditAPI]: https://www.reddit.com/dev/api/
