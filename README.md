@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 09 Feb 2026 at 16:12:55</sub></p>
+<p align="left"><sub>last updated at: 10 Feb 2026 at 16:17:11</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/cookingboy][source]</sub> |
-| **Mini Shenjianbao (pan fried soup dumpling) from Shanghai [OC]** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/5y9v2diugqeg1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/LuluAddict29][source]</sub> |
+| **Insane Super Bowl sushi tray 🍣 🤤** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/m8h93kt71dig1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1qj3dfn/mini_shenjianbao_pan_fried_soup_dumpling_from/
+[source]: https://reddit.com/r/FoodPorn/comments/1qzp3k8/insane_super_bowl_sushi_tray/
 [redditAPI]: https://www.reddit.com/dev/api/
