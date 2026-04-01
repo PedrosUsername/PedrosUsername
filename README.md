@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 31 Mar 2026 at 16:15:18</sub></p>
+<p align="left"><sub>last updated at: 01 Apr 2026 at 16:13:02</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Jarlock1998][source]</sub> |
-| **Doughnuts with vanilla custard/strawberry &amp; cream filling** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/b89r1uzjwtrg1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/daversa][source]</sub> |
+| **Homemade Double Oklahoma Onion burger w/ Jalapeňo Jack** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/6fpp1rkygbsg1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1s67z9l/doughnuts_with_vanilla_custardstrawberry_cream/
+[source]: https://reddit.com/r/FoodPorn/comments/1s8en1e/homemade_double_oklahoma_onion_burger_w_jalapeňo/
 [redditAPI]: https://www.reddit.com/dev/api/
