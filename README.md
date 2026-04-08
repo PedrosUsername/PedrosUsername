@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 07 Apr 2026 at 16:17:52</sub></p>
+<p align="left"><sub>last updated at: 08 Apr 2026 at 16:36:59</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Ottonaattori][source]</sub> |
-| **Homemade Cheeseburger [OC]** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/msfhnj32j8qg1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/lemonycaesarsalad][source]</sub> |
+| **Easter brunch fruit plate** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/mi2qzy9zghtg1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1rz2lmo/homemade_cheeseburger_oc/
+[source]: https://reddit.com/r/FoodPorn/comments/1sdmtlw/easter_brunch_fruit_plate/
 [redditAPI]: https://www.reddit.com/dev/api/
