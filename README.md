@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 08 Apr 2026 at 16:36:59</sub></p>
+<p align="left"><sub>last updated at: 09 Apr 2026 at 16:42:18</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/lemonycaesarsalad][source]</sub> |
-| **Easter brunch fruit plate** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/mi2qzy9zghtg1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/OriginalKatya][source]</sub> |
+| **Homemade double smash burger with caramelized onions and special sauce** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/n52mo9rx5ttg1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1sdmtlw/easter_brunch_fruit_plate/
+[source]: https://reddit.com/r/FoodPorn/comments/1sf3prm/homemade_double_smash_burger_with_caramelized/
 [redditAPI]: https://www.reddit.com/dev/api/
