@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 15 Apr 2026 at 16:14:55</sub></p>
+<p align="left"><sub>last updated at: 16 Apr 2026 at 16:48:43</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/lemonycaesarsalad][source]</sub> |
-| **Easter brunch fruit plate** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/mi2qzy9zghtg1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/vvelllvvyy_][source]</sub> |
+| **Ramen bowl with my brother and 2 older cousins** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/63uc475t3rug1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1sdmtlw/easter_brunch_fruit_plate/
+[source]: https://reddit.com/r/FoodPorn/comments/1sjcwb7/ramen_bowl_with_my_brother_and_2_older_cousins/
 [redditAPI]: https://www.reddit.com/dev/api/
