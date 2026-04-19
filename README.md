@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 18 Apr 2026 at 15:54:35</sub></p>
+<p align="left"><sub>last updated at: 19 Apr 2026 at 15:54:37</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/vvelllvvyy_][source]</sub> |
-| **Ramen bowl with my brother and 2 older cousins** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/63uc475t3rug1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/aminorman][source]</sub> |
+| **German Pepper Beef Stew with Buttered New Potatoes.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/69wiwqlb9yvg1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1sjcwb7/ramen_bowl_with_my_brother_and_2_older_cousins/
+[source]: https://reddit.com/r/FoodPorn/comments/1soxjil/german_pepper_beef_stew_with_buttered_new_potatoes/
 [redditAPI]: https://www.reddit.com/dev/api/
