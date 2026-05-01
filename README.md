@@ -1,6 +1,6 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 30 Apr 2026 at 16:48:31</sub></p>
+<p align="left"><sub>last updated at: 01 May 2026 at 16:09:23</sub></p>
 
 |   |
 | --- |
