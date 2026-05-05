@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 04 May 2026 at 17:00:46</sub></p>
+<p align="left"><sub>last updated at: 05 May 2026 at 16:55:14</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/aminorman][source]</sub> |
-| **German Pepper Beef Stew with Buttered New Potatoes.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/69wiwqlb9yvg1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Outside-Ad-2872][source]</sub> |
+| **Bucatini alla Carbonara. My 2nd attempt** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/xq67vx5pslyg1.png" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1soxjil/german_pepper_beef_stew_with_buttered_new_potatoes/
+[source]: https://reddit.com/r/FoodPorn/comments/1t189cv/bucatini_alla_carbonara_my_2nd_attempt/
 [redditAPI]: https://www.reddit.com/dev/api/
