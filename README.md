@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 14 May 2026 at 17:13:32</sub></p>
+<p align="left"><sub>last updated at: 15 May 2026 at 17:00:29</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Outside-Ad-2872][source]</sub> |
-| **Bucatini alla Carbonara. My 2nd attempt** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/xq67vx5pslyg1.png" width="550" /> </p>|
+| <sub>[Posted by: u/crazy-me2024][source]</sub> |
+| **Classic beef stew with mashed potatoes** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/xa3raqit9j0h1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1t189cv/bucatini_alla_carbonara_my_2nd_attempt/
+[source]: https://reddit.com/r/FoodPorn/comments/1ta83tz/classic_beef_stew_with_mashed_potatoes/
 [redditAPI]: https://www.reddit.com/dev/api/
