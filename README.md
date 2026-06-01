@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 31 May 2026 at 16:36:09</sub></p>
+<p align="left"><sub>last updated at: 01 Jun 2026 at 19:57:27</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/crazy-me2024][source]</sub> |
-| **Classic beef stew with mashed potatoes** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/xa3raqit9j0h1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/ProjectA-ko][source]</sub> |
+| **[homemade] grilled steak, crab-cake and asparagus** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/lv03rrjzpw0h1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1ta83tz/classic_beef_stew_with_mashed_potatoes/
+[source]: https://reddit.com/r/FoodPorn/comments/1tbzqyc/homemade_grilled_steak_crabcake_and_asparagus/
 [redditAPI]: https://www.reddit.com/dev/api/
