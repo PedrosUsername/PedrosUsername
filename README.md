@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 05 Jun 2026 at 17:24:04</sub></p>
+<p align="left"><sub>last updated at: 06 Jun 2026 at 16:34:10</sub></p>
 
 |   |
 | --- |
 | <sub>[Posted by: u/Aglr2026][source]</sub> |
-| **Homemade Beef Burrito Bowl** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/87to3p12v25h1.jpeg" width="550" /> </p>|
+| **Homemade Peruvian Chicken &amp; Aji Verde Sauce** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/iuwg5zi37a5h1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1tvqyun/homemade_beef_burrito_bowl/
+[source]: https://reddit.com/r/FoodPorn/comments/1twqdyl/homemade_peruvian_chicken_aji_verde_sauce/
 [redditAPI]: https://www.reddit.com/dev/api/
