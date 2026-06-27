@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 26 Jun 2026 at 17:08:54</sub></p>
+<p align="left"><sub>last updated at: 27 Jun 2026 at 16:32:46</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/mtlgrems][source]</sub> |
-| **Assorted Nigiri Platter** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/gsa3c91qr17h1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/mitch-mma][source]</sub> |
+| **Bangers and mash [OC]** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/dyz07jag6a7h1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1u4q8pk/assorted_nigiri_platter/
+[source]: https://reddit.com/r/FoodPorn/comments/1u5qq6r/bangers_and_mash_oc/
 [redditAPI]: https://www.reddit.com/dev/api/
