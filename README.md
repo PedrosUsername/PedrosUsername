@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 28 Jun 2026 at 16:37:05</sub></p>
+<p align="left"><sub>last updated at: 29 Jun 2026 at 17:47:53</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/mitch-mma][source]</sub> |
-| **Bangers and mash [OC]** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/dyz07jag6a7h1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Max_Media_7x][source]</sub> |
+| **Katsu Curry** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/l6cav28fa09h1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1u5qq6r/bangers_and_mash_oc/
+[source]: https://reddit.com/r/FoodPorn/comments/1udcyix/katsu_curry/
 [redditAPI]: https://www.reddit.com/dev/api/
