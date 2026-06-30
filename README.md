@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 29 Jun 2026 at 17:47:53</sub></p>
+<p align="left"><sub>last updated at: 30 Jun 2026 at 17:15:53</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Max_Media_7x][source]</sub> |
-| **Katsu Curry** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/l6cav28fa09h1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/SteakAndIron][source]</sub> |
+| **These unbelievable heirloom tomatoes my wife grew** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/rt3gzlxd08ah1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1udcyix/katsu_curry/
+[source]: https://reddit.com/r/FoodPorn/comments/1uirzhj/these_unbelievable_heirloom_tomatoes_my_wife_grew/
 [redditAPI]: https://www.reddit.com/dev/api/
