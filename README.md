@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 15 Jul 2026 at 16:45:08</sub></p>
+<p align="left"><sub>last updated at: 16 Jul 2026 at 16:41:49</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/teddy_lvl1][source]</sub> |
-| **Homemade Döner Kebab** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/tcb1otu1htbh1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/NeoGh0st][source]</sub> |
+| **[homemade] Lobster roll with lemon dill aioli and fresh chive** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/oivk1dzkh2dh1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1upwja3/homemade_döner_kebab/
+[source]: https://reddit.com/r/FoodPorn/comments/1uvp9y3/homemade_lobster_roll_with_lemon_dill_aioli_and/
 [redditAPI]: https://www.reddit.com/dev/api/
