@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 29 Jul 2026 at 16:38:34</sub></p>
+<p align="left"><sub>last updated at: 30 Jul 2026 at 16:50:05</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/abdul_bino][source]</sub> |
-| **Spicy chili noodles with some steak on side** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/9jqi4aa0jadh1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/kristinahh3][source]</sub> |
+| **Sticky sesame chicken with rice and rustic fries** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/5elrwqeil0eh1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1uwqrzo/spicy_chili_noodles_with_some_steak_on_side/
+[source]: https://reddit.com/r/FoodPorn/comments/1v00bn1/sticky_sesame_chicken_with_rice_and_rustic_fries/
 [redditAPI]: https://www.reddit.com/dev/api/
