@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 22 Aug 2026 at 15:35:29</sub></p>
+<p align="left"><sub>last updated at: 23 Aug 2026 at 15:37:26</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Silly-Armadillo3358][source]</sub> |
-| **CRISPY chicken tenders** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/yewvqyl63gih1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Grace_TheCook][source]</sub> |
+| **Marry Me Chicken Soup** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/l1sirwdc88kh1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1vk6e81/crispy_chicken_tenders/
+[source]: https://reddit.com/r/FoodPorn/comments/1vs72ag/marry_me_chicken_soup/
 [redditAPI]: https://www.reddit.com/dev/api/
