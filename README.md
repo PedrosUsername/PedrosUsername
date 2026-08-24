@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 23 Aug 2026 at 15:37:26</sub></p>
+<p align="left"><sub>last updated at: 24 Aug 2026 at 15:56:04</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Grace_TheCook][source]</sub> |
-| **Marry Me Chicken Soup** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/l1sirwdc88kh1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/ProjectA-ko][source]</sub> |
+| **[homemade] Gumbo** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ukyjn7k3qzkh1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1vs72ag/marry_me_chicken_soup/
+[source]: https://reddit.com/r/FoodPorn/comments/1vvnsig/homemade_gumbo/
 [redditAPI]: https://www.reddit.com/dev/api/
