@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 28 Aug 2026 at 00:25:40</sub></p>
+<p align="left"><sub>last updated at: 29 Aug 2026 at 00:00:42</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/AmanoIwata][source]</sub> |
-| **Breakfast Tostadas** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/9ew8vf53sdlh1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/ProjectA-ko][source]</sub> |
+| **[homemade] grilled steak, seaweed salad and pepper cream sauce.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/c492bughlslh1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1vxe4nz/breakfast_tostadas/
+[source]: https://reddit.com/r/FoodPorn/comments/1vzbcnu/homemade_grilled_steak_seaweed_salad_and_pepper/
 [redditAPI]: https://www.reddit.com/dev/api/
