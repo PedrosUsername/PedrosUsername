@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 14 Sep 2026 at 19:50:59</sub></p>
+<p align="left"><sub>last updated at: 15 Sep 2026 at 19:01:37</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Whydoucare-][source]</sub> |
-| **I may have the perfect chocolate chip cookie recipe for you🍪** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/y7k426ba6pnh1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/issacooldude][source]</sub> |
+| **Homemade double cheese burger** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/q7groxjtq3ph1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1w7zr4s/i_may_have_the_perfect_chocolate_chip_cookie/
+[source]: https://reddit.com/r/FoodPorn/comments/1weeivf/homemade_double_cheese_burger/
 [redditAPI]: https://www.reddit.com/dev/api/
