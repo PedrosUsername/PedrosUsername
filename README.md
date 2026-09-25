@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 24 Sep 2026 at 19:11:45</sub></p>
+<p align="left"><sub>last updated at: 25 Sep 2026 at 19:15:33</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/SmoothMooves][source]</sub> |
-| **Chicken fried chicken with gravy and biscuits.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/p0n3bphdjaph1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/ProjectA-ko][source]</sub> |
+| **[homemade] Blackened catfish, dirty rice, grilled shrimp, sautéed broccolini and crab cream sauce.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/lqlvzdrz83rh1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1wf7x8j/chicken_fried_chicken_with_gravy_and_biscuits/
+[source]: https://reddit.com/r/FoodPorn/comments/1wncahv/homemade_blackened_catfish_dirty_rice_grilled/
 [redditAPI]: https://www.reddit.com/dev/api/
