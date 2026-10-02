@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 01 Oct 2026 at 20:21:02</sub></p>
+<p align="left"><sub>last updated at: 02 Oct 2026 at 19:57:33</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/ProjectA-ko][source]</sub> |
-| **[homemade] Blackened catfish, dirty rice, grilled shrimp, sautéed broccolini and crab cream sauce.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/lqlvzdrz83rh1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/aminorman][source]</sub> |
+| **Cheese Grits with Eggs and Country Sausage** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/mon0sg0cewsh1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1wncahv/homemade_blackened_catfish_dirty_rice_grilled/
+[source]: https://reddit.com/r/FoodPorn/comments/1wv71o6/cheese_grits_with_eggs_and_country_sausage/
 [redditAPI]: https://www.reddit.com/dev/api/
