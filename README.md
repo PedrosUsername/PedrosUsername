@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 24 Oct 2026 at 18:10:38</sub></p>
+<p align="left"><sub>last updated at: 25 Oct 2026 at 18:24:31</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/RevolutionarySet8635][source]</sub> |
-| **Mac n Cheese** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/knpwy3fb1cuh1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/ProjectA-ko][source]</sub> |
+| **[homemade] Grilled steak and roasted seasoned potatoes with guanciale and pecorino romano.** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/ir3uinqdj1xh1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1x16rup/mac_n_cheese/
+[source]: https://reddit.com/r/FoodPorn/comments/1xcmezq/homemade_grilled_steak_and_roasted_seasoned/
 [redditAPI]: https://www.reddit.com/dev/api/
