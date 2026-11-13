@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 12 Nov 2026 at 21:50:35</sub></p>
+<p align="left"><sub>last updated at: 13 Nov 2026 at 21:25:56</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/ProjectA-ko][source]</sub> |
-| **[homemade] Grilled steak and roasted seasoned potatoes with guanciale and pecorino romano.** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/ir3uinqdj1xh1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/Own_Direction_1763][source]</sub> |
+| **A collection of baklava from Istanbul😋** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/acc3spyd13zh1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1xcmezq/homemade_grilled_steak_and_roasted_seasoned/
+[source]: https://reddit.com/r/FoodPorn/comments/1xlh925/a_collection_of_baklava_from_istanbul/
 [redditAPI]: https://www.reddit.com/dev/api/
