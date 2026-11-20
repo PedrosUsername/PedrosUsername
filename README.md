@@ -1,12 +1,12 @@
 ### Scored well on r/foodporn recently:
 
-<p align="left"><sub>last updated at: 19 Nov 2026 at 22:40:01</sub></p>
+<p align="left"><sub>last updated at: 20 Nov 2026 at 22:14:34</sub></p>
 
 |   |
 | --- |
-| <sub>[Posted by: u/Own_Direction_1763][source]</sub> |
-| **A collection of baklava from Istanbul😋** | 
-|<p align="center"> <img alt="image" src="https://i.redd.it/acc3spyd13zh1.jpeg" width="550" /> </p>|
+| <sub>[Posted by: u/slh2c][source]</sub> |
+| **Grilled steak burrito** | 
+|<p align="center"> <img alt="image" src="https://i.redd.it/2a19vdwgi70i1.jpeg" width="550" /> </p>|
 |   |
 
 ### Hey, what's up?
@@ -30,5 +30,5 @@ I'm Pedro. I like coding, animation, witch-house and video games.<br><br>
   
 [linkedin]: https://linkedin.com/in/pedro-h-r-gomes-8a487b14a/
 [gmail]: mailto:pilique11@gmail.com
-[source]: https://reddit.com/r/FoodPorn/comments/1xlh925/a_collection_of_baklava_from_istanbul/
+[source]: https://reddit.com/r/FoodPorn/comments/1xq8nep/grilled_steak_burrito/
 [redditAPI]: https://www.reddit.com/dev/api/
